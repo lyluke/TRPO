@@ -1,5 +1,5 @@
 # TRPO_optimizer
-This is a repository for the source codes of zero-order function optimizer based on reinforcement learning. Detailed explanation can be found in Introudction.ipynb.
+This is a repository for the source codes of zero-order function optimizer based on reinforcement learning. Detailed explanation can be found in [Introudction.ipynb](https://github.com/ssw5075839/TRPO/blob/master/Introduction.ipynb).
 
 ## Usage:
 1. Define your objective function in Env_example.py. In Env_example.py, a Michalewicz function is used as an example. This is a commonly used function for optimization algoritm testing. Your own defined function must support vector operation in numpy. In reset() method, define the starting point for each iteration. For Michalewicz function, since its input range is 0 to pi, I choose pi/2 as the starting point.
@@ -111,4 +111,8 @@ optional arguments:
                         Vanilla TRPO usually has higher convergence stability
                         but easily get stuck in local minimum.
 ```
-4. The result will be logged in the log file you defined. The default is tf_multiprocess.log. The end of the lines will state
+4. The result will be logged in the log file you defined. The default is tf_multiprocess.log. The end of the lines will state something like:
+```
+18 Sep 11:50:26 main.py[line:208] INFO The global minimum is:
+18 Sep 11:50:26 main.py[line:209] INFO [ 1.92325421  1.72185265]
+```
