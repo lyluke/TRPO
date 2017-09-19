@@ -23,7 +23,6 @@ optional arguments:
                         should be l1,l2, ... ,ln
   --init_std INIT_STD   the initial value of std dev used by gaussian sampling
                         function
-  --min_std MIN_STD     the minimum value std dev
   --hidden_activation HIDDEN_ACTIVATION
                         the activation used by hidden layer
   --output_activation OUTPUT_ACTIVATION
@@ -35,7 +34,7 @@ optional arguments:
 ```
 main.py [-h] [--init_params_path INIT_PARAMS_PATH]
                [--hidden_sizes HIDDEN_SIZES] [--init_std INIT_STD]
-               [--min_std MIN_STD] [--hidden_activation HIDDEN_ACTIVATION]
+               [--hidden_activation HIDDEN_ACTIVATION]
                [--output_activation OUTPUT_ACTIVATION]
                [--max_global_iters MAX_GLOBAL_ITERS] [--batch_size BATCH_SIZE]
                [--max_path_length MAX_PATH_LENGTH] [--discount DISCOUNT]
@@ -59,7 +58,6 @@ optional arguments:
                         should be l1,l2, ... ,ln
   --init_std INIT_STD   the initial value of std dev used by gaussian sampling
                         function
-  --min_std MIN_STD     the minimum value std dev
   --hidden_activation HIDDEN_ACTIVATION
                         the activation used by hidden layer
   --output_activation OUTPUT_ACTIVATION
