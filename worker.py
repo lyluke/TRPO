@@ -20,7 +20,7 @@ class Worker():
         visible_gpu_device,
         baseline,
         model_path = './',
-        hidden_sizes = [64,64],
+        hidden_sizes = [128,64],
         init_std = 1.0,
         hidden_activation = tf.nn.relu,
         output_activation = tf.nn.tanh,
