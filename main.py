@@ -26,7 +26,7 @@ def parse_args():
                                      optimization problem')
     parser.add_argument('--init_params_path', type=str, default='global_vars.pickle',
                         help='the path to saved initial parameters')
-    parser.add_argument('--hidden_sizes', type=str, default="64,64",
+    parser.add_argument('--hidden_sizes', type=str, default="128,64",
                         help='the size of hidden layer of the policy network\
                         format should be l1,l2, ... ,ln')
     parser.add_argument('--init_std', type=float, default=1.0,
