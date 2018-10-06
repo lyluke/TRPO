@@ -9,7 +9,7 @@ import pickle
 This program will initialize step proposal network parameters. Then the parameters will be saved and distributed to all the workers.
 '''
 
-os.environ["CUDA_VISIBLE_DEVICES"] = ""  
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"  
 def init_params(path, hidden_sizes, init_std, hidden_activation, output_activation):
     master_network = Policy_Network(Env(1),        
                                     hidden_sizes = hidden_sizes,
