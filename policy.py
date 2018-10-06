@@ -78,11 +78,11 @@ class Policy_Network():
         #Expectaion of likelihood ratio weighted by advantages
         self.actions = tf.placeholder(tf.float32, [None,self.size[0]], "actions")
         new_zs = tf.div(self.actions - self.mean, self.new_std)
-        logli_new = -tf.reduce_sum(self.log_std_tile, axis=1,keep_dims=True) - \
-                    0.5 * tf.reduce_sum(tf.square(new_zs), axis=1, keep_dims=True)
+        logli_new = -tf.reduce_sum(self.log_std_tile, axis=1,keepdims=True) - \
+                    0.5 * tf.reduce_sum(tf.square(new_zs), axis=1, keepdims=True)
         old_zs = tf.div(self.actions - self.old_mean, self.old_std)
-        logli_old = -tf.reduce_sum(self.old_log_std, axis=1, keep_dims=True) - \
-                    0.5 * tf.reduce_sum(tf.square(old_zs), axis=1, keep_dims=True)
+        logli_old = -tf.reduce_sum(self.old_log_std, axis=1, keepdims=True) - \
+                    0.5 * tf.reduce_sum(tf.square(old_zs), axis=1, keepdims=True)
         self.advantage = tf.placeholder(tf.float32, [None,1], "advantage")
         self.likelihood_ratio = tf.exp(logli_new - logli_old)
         self.weighted_likelihood_ratio = tf.multiply(self.likelihood_ratio, self.w)
