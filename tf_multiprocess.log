@@ -1,0 +1,1836 @@
+06 Oct 21:56:16 worker.py[line:173] INFO Starting worker 0
+06 Oct 21:56:16 worker.py[line:179] INFO worker_0 at global epiode #0 start:
+06 Oct 21:56:18 Experience.py[line:176] INFO current beta is: 0.401501403336
+06 Oct 21:56:18 worker.py[line:281] INFO 
+
+06 Oct 21:56:18 worker.py[line:179] INFO worker_0 at global epiode #1 start:
+06 Oct 21:56:20 Experience.py[line:176] INFO current beta is: 0.401537705955
+06 Oct 21:56:20 worker.py[line:281] INFO 
+
+06 Oct 21:56:20 worker.py[line:179] INFO worker_0 at global epiode #2 start:
+06 Oct 21:56:22 Experience.py[line:176] INFO current beta is: 0.401574884029
+06 Oct 21:56:22 worker.py[line:281] INFO 
+
+06 Oct 21:56:22 worker.py[line:179] INFO worker_0 at global epiode #3 start:
+06 Oct 21:56:23 Experience.py[line:176] INFO current beta is: 0.401612958558
+06 Oct 21:56:24 worker.py[line:281] INFO 
+
+06 Oct 21:56:24 worker.py[line:179] INFO worker_0 at global epiode #4 start:
+06 Oct 21:56:25 Experience.py[line:176] INFO current beta is: 0.401651951039
+06 Oct 21:56:25 worker.py[line:281] INFO 
+
+06 Oct 21:56:25 worker.py[line:179] INFO worker_0 at global epiode #5 start:
+06 Oct 21:56:27 Experience.py[line:176] INFO current beta is: 0.401691883479
+06 Oct 21:56:27 worker.py[line:281] INFO 
+
+06 Oct 21:56:27 worker.py[line:179] INFO worker_0 at global epiode #6 start:
+06 Oct 21:56:29 Experience.py[line:176] INFO current beta is: 0.401732778407
+06 Oct 21:56:29 worker.py[line:281] INFO 
+
+06 Oct 21:56:29 worker.py[line:179] INFO worker_0 at global epiode #7 start:
+06 Oct 21:56:31 Experience.py[line:176] INFO current beta is: 0.401774658883
+06 Oct 21:56:31 worker.py[line:281] INFO 
+
+06 Oct 21:56:31 worker.py[line:179] INFO worker_0 at global epiode #8 start:
+06 Oct 21:56:32 Experience.py[line:176] INFO current beta is: 0.401817548517
+06 Oct 21:56:32 worker.py[line:281] INFO 
+
+06 Oct 21:56:32 worker.py[line:179] INFO worker_0 at global epiode #9 start:
+06 Oct 21:56:34 Experience.py[line:176] INFO current beta is: 0.401861471475
+06 Oct 21:56:34 worker.py[line:281] INFO 
+
+06 Oct 21:56:34 worker.py[line:179] INFO worker_0 at global epiode #10 start:
+06 Oct 21:56:36 Experience.py[line:176] INFO current beta is: 0.401906452493
+06 Oct 21:56:36 worker.py[line:281] INFO 
+
+06 Oct 21:56:36 worker.py[line:179] INFO worker_0 at global epiode #11 start:
+06 Oct 21:56:37 Experience.py[line:176] INFO current beta is: 0.401952516895
+06 Oct 21:56:38 worker.py[line:281] INFO 
+
+06 Oct 21:56:38 worker.py[line:179] INFO worker_0 at global epiode #12 start:
+06 Oct 21:56:39 Experience.py[line:176] INFO current beta is: 0.401999690601
+06 Oct 21:56:39 worker.py[line:281] INFO 
+
+06 Oct 21:56:39 worker.py[line:179] INFO worker_0 at global epiode #13 start:
+06 Oct 21:56:41 Experience.py[line:176] INFO current beta is: 0.402048000142
+06 Oct 21:56:41 worker.py[line:281] INFO 
+
+06 Oct 21:56:41 worker.py[line:179] INFO worker_0 at global epiode #14 start:
+06 Oct 21:56:43 Experience.py[line:176] INFO current beta is: 0.402097472676
+06 Oct 21:56:43 worker.py[line:281] INFO 
+
+06 Oct 21:56:43 worker.py[line:179] INFO worker_0 at global epiode #15 start:
+06 Oct 21:56:44 Experience.py[line:176] INFO current beta is: 0.402148136
+06 Oct 21:56:45 worker.py[line:281] INFO 
+
+06 Oct 21:56:45 worker.py[line:179] INFO worker_0 at global epiode #16 start:
+06 Oct 21:56:46 Experience.py[line:176] INFO current beta is: 0.402200018566
+06 Oct 21:56:46 worker.py[line:281] INFO 
+
+06 Oct 21:56:46 worker.py[line:179] INFO worker_0 at global epiode #17 start:
+06 Oct 21:56:48 Experience.py[line:176] INFO current beta is: 0.402253149497
+06 Oct 21:56:48 worker.py[line:281] INFO 
+
+06 Oct 21:56:48 worker.py[line:179] INFO worker_0 at global epiode #18 start:
+06 Oct 21:56:50 Experience.py[line:176] INFO current beta is: 0.402307558599
+06 Oct 21:56:50 worker.py[line:281] INFO 
+
+06 Oct 21:56:50 worker.py[line:179] INFO worker_0 at global epiode #19 start:
+06 Oct 21:56:51 Experience.py[line:176] INFO current beta is: 0.402363276378
+06 Oct 21:56:52 worker.py[line:281] INFO 
+
+06 Oct 21:56:52 worker.py[line:179] INFO worker_0 at global epiode #20 start:
+06 Oct 21:56:53 Experience.py[line:176] INFO current beta is: 0.402420334058
+06 Oct 21:56:53 worker.py[line:281] INFO 
+
+06 Oct 21:56:53 worker.py[line:179] INFO worker_0 at global epiode #21 start:
+06 Oct 21:56:55 Experience.py[line:176] INFO current beta is: 0.402478763594
+06 Oct 21:56:55 worker.py[line:281] INFO 
+
+06 Oct 21:56:55 worker.py[line:179] INFO worker_0 at global epiode #22 start:
+06 Oct 21:56:57 Experience.py[line:176] INFO current beta is: 0.402538597692
+06 Oct 21:56:57 worker.py[line:281] INFO 
+
+06 Oct 21:56:57 worker.py[line:179] INFO worker_0 at global epiode #23 start:
+06 Oct 21:56:58 Experience.py[line:176] INFO current beta is: 0.402599869822
+06 Oct 21:56:58 worker.py[line:281] INFO 
+
+06 Oct 21:56:58 worker.py[line:179] INFO worker_0 at global epiode #24 start:
+06 Oct 21:57:00 Experience.py[line:176] INFO current beta is: 0.402662614238
+06 Oct 21:57:00 worker.py[line:281] INFO 
+
+06 Oct 21:57:00 worker.py[line:179] INFO worker_0 at global epiode #25 start:
+06 Oct 21:57:02 Experience.py[line:176] INFO current beta is: 0.402726865996
+06 Oct 21:57:02 worker.py[line:281] INFO 
+
+06 Oct 21:57:02 worker.py[line:179] INFO worker_0 at global epiode #26 start:
+06 Oct 21:57:04 Experience.py[line:176] INFO current beta is: 0.402792660969
+06 Oct 21:57:04 worker.py[line:281] INFO 
+
+06 Oct 21:57:04 worker.py[line:179] INFO worker_0 at global epiode #27 start:
+06 Oct 21:57:05 Experience.py[line:176] INFO current beta is: 0.402860035869
+06 Oct 21:57:05 worker.py[line:281] INFO 
+
+06 Oct 21:57:05 worker.py[line:179] INFO worker_0 at global epiode #28 start:
+06 Oct 21:57:07 Experience.py[line:176] INFO current beta is: 0.402929028264
+06 Oct 21:57:07 worker.py[line:281] INFO 
+
+06 Oct 21:57:07 worker.py[line:179] INFO worker_0 at global epiode #29 start:
+06 Oct 21:57:09 Experience.py[line:176] INFO current beta is: 0.402999676596
+06 Oct 21:57:09 worker.py[line:281] INFO 
+
+06 Oct 21:57:09 worker.py[line:179] INFO worker_0 at global epiode #30 start:
+06 Oct 21:57:10 Experience.py[line:176] INFO current beta is: 0.403072020202
+06 Oct 21:57:11 worker.py[line:281] INFO 
+
+06 Oct 21:57:11 worker.py[line:179] INFO worker_0 at global epiode #31 start:
+06 Oct 21:57:12 Experience.py[line:176] INFO current beta is: 0.403146099334
+06 Oct 21:57:12 worker.py[line:281] INFO 
+
+06 Oct 21:57:12 worker.py[line:179] INFO worker_0 at global epiode #32 start:
+06 Oct 21:57:14 Experience.py[line:176] INFO current beta is: 0.403221955179
+06 Oct 21:57:14 worker.py[line:281] INFO 
+
+06 Oct 21:57:14 worker.py[line:179] INFO worker_0 at global epiode #33 start:
+06 Oct 21:57:16 Experience.py[line:176] INFO current beta is: 0.403299629879
+06 Oct 21:57:16 worker.py[line:281] INFO 
+
+06 Oct 21:57:16 worker.py[line:179] INFO worker_0 at global epiode #34 start:
+06 Oct 21:57:17 Experience.py[line:176] INFO current beta is: 0.403379166553
+06 Oct 21:57:18 worker.py[line:281] INFO 
+
+06 Oct 21:57:18 worker.py[line:179] INFO worker_0 at global epiode #35 start:
+06 Oct 21:57:19 Experience.py[line:176] INFO current beta is: 0.403460609318
+06 Oct 21:57:19 worker.py[line:281] INFO 
+
+06 Oct 21:57:19 worker.py[line:179] INFO worker_0 at global epiode #36 start:
+06 Oct 21:57:21 Experience.py[line:176] INFO current beta is: 0.40354400331
+06 Oct 21:57:21 worker.py[line:281] INFO 
+
+06 Oct 21:57:21 worker.py[line:179] INFO worker_0 at global epiode #37 start:
+06 Oct 21:57:23 Experience.py[line:176] INFO current beta is: 0.403629394709
+06 Oct 21:57:23 worker.py[line:281] INFO 
+
+06 Oct 21:57:23 worker.py[line:179] INFO worker_0 at global epiode #38 start:
+06 Oct 21:57:24 Experience.py[line:176] INFO current beta is: 0.40371683076
+06 Oct 21:57:24 worker.py[line:281] INFO 
+
+06 Oct 21:57:24 worker.py[line:179] INFO worker_0 at global epiode #39 start:
+06 Oct 21:57:26 Experience.py[line:176] INFO current beta is: 0.403806359796
+06 Oct 21:57:26 worker.py[line:281] INFO 
+
+06 Oct 21:57:26 worker.py[line:179] INFO worker_0 at global epiode #40 start:
+06 Oct 21:57:28 Experience.py[line:176] INFO current beta is: 0.403898031262
+06 Oct 21:57:28 worker.py[line:281] INFO 
+
+06 Oct 21:57:28 worker.py[line:179] INFO worker_0 at global epiode #41 start:
+06 Oct 21:57:29 Experience.py[line:176] INFO current beta is: 0.40399189574
+06 Oct 21:57:30 worker.py[line:281] INFO 
+
+06 Oct 21:57:30 worker.py[line:179] INFO worker_0 at global epiode #42 start:
+06 Oct 21:57:31 Experience.py[line:176] INFO current beta is: 0.40408800497
+06 Oct 21:57:31 worker.py[line:281] INFO 
+
+06 Oct 21:57:31 worker.py[line:179] INFO worker_0 at global epiode #43 start:
+06 Oct 21:57:33 Experience.py[line:176] INFO current beta is: 0.404186411882
+06 Oct 21:57:33 worker.py[line:281] INFO 
+
+06 Oct 21:57:33 worker.py[line:179] INFO worker_0 at global epiode #44 start:
+06 Oct 21:57:35 Experience.py[line:176] INFO current beta is: 0.404287170613
+06 Oct 21:57:35 worker.py[line:281] INFO 
+
+06 Oct 21:57:35 worker.py[line:179] INFO worker_0 at global epiode #45 start:
+06 Oct 21:57:36 Experience.py[line:176] INFO current beta is: 0.40439033654
+06 Oct 21:57:37 worker.py[line:281] INFO 
+
+06 Oct 21:57:37 worker.py[line:179] INFO worker_0 at global epiode #46 start:
+06 Oct 21:57:38 Experience.py[line:176] INFO current beta is: 0.404495966302
+06 Oct 21:57:38 worker.py[line:281] INFO 
+
+06 Oct 21:57:38 worker.py[line:179] INFO worker_0 at global epiode #47 start:
+06 Oct 21:57:40 Experience.py[line:176] INFO current beta is: 0.404604117829
+06 Oct 21:57:40 worker.py[line:281] INFO 
+
+06 Oct 21:57:40 worker.py[line:179] INFO worker_0 at global epiode #48 start:
+06 Oct 21:57:42 Experience.py[line:176] INFO current beta is: 0.404714850369
+06 Oct 21:57:42 worker.py[line:281] INFO 
+
+06 Oct 21:57:42 worker.py[line:179] INFO worker_0 at global epiode #49 start:
+06 Oct 21:57:43 Experience.py[line:176] INFO current beta is: 0.404828224514
+06 Oct 21:57:44 worker.py[line:281] INFO 
+
+06 Oct 21:57:44 worker.py[line:179] INFO worker_0 at global epiode #50 start:
+06 Oct 21:57:45 Experience.py[line:176] INFO current beta is: 0.404944302231
+06 Oct 21:57:45 worker.py[line:281] INFO 
+
+06 Oct 21:57:45 worker.py[line:179] INFO worker_0 at global epiode #51 start:
+06 Oct 21:57:47 Experience.py[line:176] INFO current beta is: 0.405063146889
+06 Oct 21:57:47 worker.py[line:281] INFO 
+
+06 Oct 21:57:47 worker.py[line:179] INFO worker_0 at global epiode #52 start:
+06 Oct 21:57:49 Experience.py[line:176] INFO current beta is: 0.405184823289
+06 Oct 21:57:49 worker.py[line:281] INFO 
+
+06 Oct 21:57:49 worker.py[line:179] INFO worker_0 at global epiode #53 start:
+06 Oct 21:57:50 Experience.py[line:176] INFO current beta is: 0.405309397693
+06 Oct 21:57:51 worker.py[line:281] INFO 
+
+06 Oct 21:57:51 worker.py[line:179] INFO worker_0 at global epiode #54 start:
+06 Oct 21:57:52 Experience.py[line:176] INFO current beta is: 0.405436937855
+06 Oct 21:57:52 worker.py[line:281] INFO 
+
+06 Oct 21:57:52 worker.py[line:179] INFO worker_0 at global epiode #55 start:
+06 Oct 21:57:54 Experience.py[line:176] INFO current beta is: 0.405567513051
+06 Oct 21:57:54 worker.py[line:281] INFO 
+
+06 Oct 21:57:54 worker.py[line:179] INFO worker_0 at global epiode #56 start:
+06 Oct 21:57:56 Experience.py[line:176] INFO current beta is: 0.405701194112
+06 Oct 21:57:56 worker.py[line:281] INFO 
+
+06 Oct 21:57:56 worker.py[line:179] INFO worker_0 at global epiode #57 start:
+06 Oct 21:57:58 Experience.py[line:176] INFO current beta is: 0.405838053453
+06 Oct 21:57:58 worker.py[line:281] INFO 
+
+06 Oct 21:57:58 worker.py[line:179] INFO worker_0 at global epiode #58 start:
+06 Oct 21:57:59 Experience.py[line:176] INFO current beta is: 0.405978165107
+06 Oct 21:57:59 worker.py[line:281] INFO 
+
+06 Oct 21:57:59 worker.py[line:179] INFO worker_0 at global epiode #59 start:
+06 Oct 21:58:01 Experience.py[line:176] INFO current beta is: 0.406121604756
+06 Oct 21:58:01 worker.py[line:281] INFO 
+
+06 Oct 21:58:01 worker.py[line:179] INFO worker_0 at global epiode #60 start:
+06 Oct 21:58:03 Experience.py[line:176] INFO current beta is: 0.406268449767
+06 Oct 21:58:03 worker.py[line:281] INFO 
+
+06 Oct 21:58:03 worker.py[line:179] INFO worker_0 at global epiode #61 start:
+06 Oct 21:58:05 Experience.py[line:176] INFO current beta is: 0.406418779223
+06 Oct 21:58:05 worker.py[line:281] INFO 
+
+06 Oct 21:58:05 worker.py[line:179] INFO worker_0 at global epiode #62 start:
+06 Oct 21:58:06 Experience.py[line:176] INFO current beta is: 0.406572673958
+06 Oct 21:58:07 worker.py[line:281] INFO 
+
+06 Oct 21:58:07 worker.py[line:179] INFO worker_0 at global epiode #63 start:
+06 Oct 21:58:08 Experience.py[line:176] INFO current beta is: 0.406730216591
+06 Oct 21:58:08 worker.py[line:281] INFO 
+
+06 Oct 21:58:08 worker.py[line:179] INFO worker_0 at global epiode #64 start:
+06 Oct 21:58:10 Experience.py[line:176] INFO current beta is: 0.406891491564
+06 Oct 21:58:10 worker.py[line:281] INFO 
+
+06 Oct 21:58:10 worker.py[line:179] INFO worker_0 at global epiode #65 start:
+06 Oct 21:58:12 Experience.py[line:176] INFO current beta is: 0.407056585173
+06 Oct 21:58:12 worker.py[line:281] INFO 
+
+06 Oct 21:58:12 worker.py[line:179] INFO worker_0 at global epiode #66 start:
+06 Oct 21:58:13 Experience.py[line:176] INFO current beta is: 0.407225585608
+06 Oct 21:58:14 worker.py[line:281] INFO 
+
+06 Oct 21:58:14 worker.py[line:179] INFO worker_0 at global epiode #67 start:
+06 Oct 21:58:15 Experience.py[line:176] INFO current beta is: 0.407398582985
+06 Oct 21:58:15 worker.py[line:281] INFO 
+
+06 Oct 21:58:15 worker.py[line:179] INFO worker_0 at global epiode #68 start:
+06 Oct 21:58:17 Experience.py[line:176] INFO current beta is: 0.407575669389
+06 Oct 21:58:17 worker.py[line:281] INFO 
+
+06 Oct 21:58:17 worker.py[line:179] INFO worker_0 at global epiode #69 start:
+06 Oct 21:58:19 Experience.py[line:176] INFO current beta is: 0.407756938906
+06 Oct 21:58:19 worker.py[line:281] INFO 
+
+06 Oct 21:58:19 worker.py[line:179] INFO worker_0 at global epiode #70 start:
+06 Oct 21:58:20 Experience.py[line:176] INFO current beta is: 0.407942487663
+06 Oct 21:58:20 worker.py[line:281] INFO 
+
+06 Oct 21:58:20 worker.py[line:179] INFO worker_0 at global epiode #71 start:
+06 Oct 21:58:22 Experience.py[line:176] INFO current beta is: 0.408132413867
+06 Oct 21:58:22 worker.py[line:281] INFO 
+
+06 Oct 21:58:22 worker.py[line:179] INFO worker_0 at global epiode #72 start:
+06 Oct 21:58:24 Experience.py[line:176] INFO current beta is: 0.408326817842
+06 Oct 21:58:24 worker.py[line:281] INFO 
+
+06 Oct 21:58:24 worker.py[line:179] INFO worker_0 at global epiode #73 start:
+06 Oct 21:58:25 Experience.py[line:176] INFO current beta is: 0.408525802068
+06 Oct 21:58:26 worker.py[line:281] INFO 
+
+06 Oct 21:58:26 worker.py[line:179] INFO worker_0 at global epiode #74 start:
+06 Oct 21:58:27 Experience.py[line:176] INFO current beta is: 0.408729471223
+06 Oct 21:58:27 worker.py[line:281] INFO 
+
+06 Oct 21:58:27 worker.py[line:179] INFO worker_0 at global epiode #75 start:
+06 Oct 21:58:29 Experience.py[line:176] INFO current beta is: 0.408937932219
+06 Oct 21:58:29 worker.py[line:281] INFO 
+
+06 Oct 21:58:29 worker.py[line:179] INFO worker_0 at global epiode #76 start:
+06 Oct 21:58:31 Experience.py[line:176] INFO current beta is: 0.409151294246
+06 Oct 21:58:31 worker.py[line:281] INFO 
+
+06 Oct 21:58:31 worker.py[line:179] INFO worker_0 at global epiode #77 start:
+06 Oct 21:58:32 Experience.py[line:176] INFO current beta is: 0.409369668809
+06 Oct 21:58:33 worker.py[line:281] INFO 
+
+06 Oct 21:58:33 worker.py[line:179] INFO worker_0 at global epiode #78 start:
+06 Oct 21:58:34 Experience.py[line:176] INFO current beta is: 0.40959316977
+06 Oct 21:58:34 worker.py[line:281] INFO 
+
+06 Oct 21:58:34 worker.py[line:179] INFO worker_0 at global epiode #79 start:
+06 Oct 21:58:36 Experience.py[line:176] INFO current beta is: 0.409821913392
+06 Oct 21:58:36 worker.py[line:281] INFO 
+
+06 Oct 21:58:36 worker.py[line:179] INFO worker_0 at global epiode #80 start:
+06 Oct 21:58:38 Experience.py[line:176] INFO current beta is: 0.410056018375
+06 Oct 21:58:38 worker.py[line:281] INFO 
+
+06 Oct 21:58:38 worker.py[line:179] INFO worker_0 at global epiode #81 start:
+06 Oct 21:58:39 Experience.py[line:176] INFO current beta is: 0.410295605902
+06 Oct 21:58:40 worker.py[line:281] INFO 
+
+06 Oct 21:58:40 worker.py[line:179] INFO worker_0 at global epiode #82 start:
+06 Oct 21:58:41 Experience.py[line:176] INFO current beta is: 0.410540799679
+06 Oct 21:58:41 worker.py[line:281] INFO 
+
+06 Oct 21:58:41 worker.py[line:179] INFO worker_0 at global epiode #83 start:
+06 Oct 21:58:43 Experience.py[line:176] INFO current beta is: 0.410791725977
+06 Oct 21:58:43 worker.py[line:281] INFO 
+
+06 Oct 21:58:43 worker.py[line:179] INFO worker_0 at global epiode #84 start:
+06 Oct 21:58:45 Experience.py[line:176] INFO current beta is: 0.411048513675
+06 Oct 21:58:45 worker.py[line:281] INFO 
+
+06 Oct 21:58:45 worker.py[line:179] INFO worker_0 at global epiode #85 start:
+06 Oct 21:58:46 Experience.py[line:176] INFO current beta is: 0.411311294302
+06 Oct 21:58:47 worker.py[line:281] INFO 
+
+06 Oct 21:58:47 worker.py[line:179] INFO worker_0 at global epiode #86 start:
+06 Oct 21:58:48 Experience.py[line:176] INFO current beta is: 0.411580202078
+06 Oct 21:58:48 worker.py[line:281] INFO 
+
+06 Oct 21:58:48 worker.py[line:179] INFO worker_0 at global epiode #87 start:
+06 Oct 21:58:50 Experience.py[line:176] INFO current beta is: 0.41185537396
+06 Oct 21:58:50 worker.py[line:281] INFO 
+
+06 Oct 21:58:50 worker.py[line:179] INFO worker_0 at global epiode #88 start:
+06 Oct 21:58:51 Experience.py[line:176] INFO current beta is: 0.412136949681
+06 Oct 21:58:52 worker.py[line:281] INFO 
+
+06 Oct 21:58:52 worker.py[line:179] INFO worker_0 at global epiode #89 start:
+06 Oct 21:58:53 Experience.py[line:176] INFO current beta is: 0.412425071793
+06 Oct 21:58:53 worker.py[line:281] INFO 
+
+06 Oct 21:58:53 worker.py[line:179] INFO worker_0 at global epiode #90 start:
+06 Oct 21:58:55 Experience.py[line:176] INFO current beta is: 0.412719885713
+06 Oct 21:58:55 worker.py[line:281] INFO 
+
+06 Oct 21:58:55 worker.py[line:179] INFO worker_0 at global epiode #91 start:
+06 Oct 21:58:57 Experience.py[line:176] INFO current beta is: 0.413021539761
+06 Oct 21:58:57 worker.py[line:281] INFO 
+
+06 Oct 21:59:00 worker.py[line:173] INFO Starting worker 1
+06 Oct 21:59:00 worker.py[line:179] INFO worker_1 at global epiode #0 start:
+06 Oct 21:59:02 Experience.py[line:176] INFO current beta is: 0.401501403336
+06 Oct 21:59:02 worker.py[line:281] INFO 
+
+06 Oct 21:59:02 worker.py[line:179] INFO worker_1 at global epiode #1 start:
+06 Oct 21:59:04 Experience.py[line:176] INFO current beta is: 0.401537705955
+06 Oct 21:59:04 worker.py[line:281] INFO 
+
+06 Oct 21:59:04 worker.py[line:179] INFO worker_1 at global epiode #2 start:
+06 Oct 21:59:06 Experience.py[line:176] INFO current beta is: 0.401574884029
+06 Oct 21:59:06 worker.py[line:281] INFO 
+
+06 Oct 21:59:06 worker.py[line:179] INFO worker_1 at global epiode #3 start:
+06 Oct 21:59:07 Experience.py[line:176] INFO current beta is: 0.401612958558
+06 Oct 21:59:08 worker.py[line:281] INFO 
+
+06 Oct 21:59:08 worker.py[line:179] INFO worker_1 at global epiode #4 start:
+06 Oct 21:59:09 Experience.py[line:176] INFO current beta is: 0.401651951039
+06 Oct 21:59:10 worker.py[line:281] INFO 
+
+06 Oct 21:59:10 worker.py[line:179] INFO worker_1 at global epiode #5 start:
+06 Oct 21:59:11 Experience.py[line:176] INFO current beta is: 0.401691883479
+06 Oct 21:59:12 worker.py[line:281] INFO 
+
+06 Oct 21:59:12 worker.py[line:179] INFO worker_1 at global epiode #6 start:
+06 Oct 21:59:13 Experience.py[line:176] INFO current beta is: 0.401732778407
+06 Oct 21:59:14 worker.py[line:281] INFO 
+
+06 Oct 21:59:14 worker.py[line:179] INFO worker_1 at global epiode #7 start:
+06 Oct 21:59:15 Experience.py[line:176] INFO current beta is: 0.401774658883
+06 Oct 21:59:16 worker.py[line:281] INFO 
+
+06 Oct 21:59:16 worker.py[line:179] INFO worker_1 at global epiode #8 start:
+06 Oct 21:59:17 Experience.py[line:176] INFO current beta is: 0.401817548517
+06 Oct 21:59:17 worker.py[line:281] INFO 
+
+06 Oct 21:59:17 worker.py[line:179] INFO worker_1 at global epiode #9 start:
+06 Oct 21:59:19 Experience.py[line:176] INFO current beta is: 0.401861471475
+06 Oct 21:59:19 worker.py[line:281] INFO 
+
+06 Oct 21:59:19 worker.py[line:179] INFO worker_1 at global epiode #10 start:
+06 Oct 21:59:21 Experience.py[line:176] INFO current beta is: 0.401906452493
+06 Oct 21:59:21 worker.py[line:281] INFO 
+
+06 Oct 21:59:21 worker.py[line:179] INFO worker_1 at global epiode #11 start:
+06 Oct 21:59:23 Experience.py[line:176] INFO current beta is: 0.401952516895
+06 Oct 21:59:23 worker.py[line:281] INFO 
+
+06 Oct 21:59:23 worker.py[line:179] INFO worker_1 at global epiode #12 start:
+06 Oct 21:59:25 Experience.py[line:176] INFO current beta is: 0.401999690601
+06 Oct 21:59:25 worker.py[line:281] INFO 
+
+06 Oct 21:59:25 worker.py[line:179] INFO worker_1 at global epiode #13 start:
+06 Oct 21:59:27 Experience.py[line:176] INFO current beta is: 0.402048000142
+06 Oct 21:59:27 worker.py[line:281] INFO 
+
+06 Oct 21:59:27 worker.py[line:179] INFO worker_1 at global epiode #14 start:
+06 Oct 21:59:28 Experience.py[line:176] INFO current beta is: 0.402097472676
+06 Oct 21:59:29 worker.py[line:281] INFO 
+
+06 Oct 21:59:29 worker.py[line:179] INFO worker_1 at global epiode #15 start:
+06 Oct 21:59:30 Experience.py[line:176] INFO current beta is: 0.402148136
+06 Oct 21:59:31 worker.py[line:281] INFO 
+
+06 Oct 21:59:31 worker.py[line:179] INFO worker_1 at global epiode #16 start:
+06 Oct 21:59:32 Experience.py[line:176] INFO current beta is: 0.402200018566
+06 Oct 21:59:33 worker.py[line:281] INFO 
+
+06 Oct 21:59:33 worker.py[line:179] INFO worker_1 at global epiode #17 start:
+06 Oct 21:59:34 Experience.py[line:176] INFO current beta is: 0.402253149497
+06 Oct 21:59:34 worker.py[line:281] INFO 
+
+06 Oct 21:59:34 worker.py[line:179] INFO worker_1 at global epiode #18 start:
+06 Oct 21:59:36 Experience.py[line:176] INFO current beta is: 0.402307558599
+06 Oct 21:59:36 worker.py[line:281] INFO 
+
+06 Oct 21:59:36 worker.py[line:179] INFO worker_1 at global epiode #19 start:
+06 Oct 21:59:38 Experience.py[line:176] INFO current beta is: 0.402363276378
+06 Oct 21:59:38 worker.py[line:281] INFO 
+
+06 Oct 21:59:38 worker.py[line:179] INFO worker_1 at global epiode #20 start:
+06 Oct 21:59:39 Experience.py[line:176] INFO current beta is: 0.402420334058
+06 Oct 21:59:40 worker.py[line:281] INFO 
+
+06 Oct 21:59:40 worker.py[line:179] INFO worker_1 at global epiode #21 start:
+06 Oct 21:59:41 Experience.py[line:176] INFO current beta is: 0.402478763594
+06 Oct 21:59:41 worker.py[line:281] INFO 
+
+06 Oct 21:59:41 worker.py[line:179] INFO worker_1 at global epiode #22 start:
+06 Oct 21:59:43 Experience.py[line:176] INFO current beta is: 0.402538597692
+06 Oct 21:59:43 worker.py[line:281] INFO 
+
+06 Oct 21:59:43 worker.py[line:179] INFO worker_1 at global epiode #23 start:
+06 Oct 21:59:45 Experience.py[line:176] INFO current beta is: 0.402599869822
+06 Oct 21:59:45 worker.py[line:281] INFO 
+
+06 Oct 21:59:45 worker.py[line:179] INFO worker_1 at global epiode #24 start:
+06 Oct 21:59:46 Experience.py[line:176] INFO current beta is: 0.402662614238
+06 Oct 21:59:47 worker.py[line:281] INFO 
+
+06 Oct 21:59:47 worker.py[line:179] INFO worker_1 at global epiode #25 start:
+06 Oct 21:59:48 Experience.py[line:176] INFO current beta is: 0.402726865996
+06 Oct 21:59:48 worker.py[line:281] INFO 
+
+06 Oct 21:59:48 worker.py[line:179] INFO worker_1 at global epiode #26 start:
+06 Oct 21:59:50 Experience.py[line:176] INFO current beta is: 0.402792660969
+06 Oct 21:59:50 worker.py[line:281] INFO 
+
+06 Oct 21:59:50 worker.py[line:179] INFO worker_1 at global epiode #27 start:
+06 Oct 21:59:52 Experience.py[line:176] INFO current beta is: 0.402860035869
+06 Oct 21:59:52 worker.py[line:281] INFO 
+
+06 Oct 21:59:52 worker.py[line:179] INFO worker_1 at global epiode #28 start:
+06 Oct 21:59:53 Experience.py[line:176] INFO current beta is: 0.402929028264
+06 Oct 21:59:54 worker.py[line:281] INFO 
+
+06 Oct 21:59:54 worker.py[line:179] INFO worker_1 at global epiode #29 start:
+06 Oct 21:59:55 Experience.py[line:176] INFO current beta is: 0.402999676596
+06 Oct 21:59:55 worker.py[line:281] INFO 
+
+06 Oct 21:59:55 worker.py[line:179] INFO worker_1 at global epiode #30 start:
+06 Oct 21:59:57 Experience.py[line:176] INFO current beta is: 0.403072020202
+06 Oct 21:59:57 worker.py[line:281] INFO 
+
+06 Oct 21:59:57 worker.py[line:179] INFO worker_1 at global epiode #31 start:
+06 Oct 21:59:59 Experience.py[line:176] INFO current beta is: 0.403146099334
+06 Oct 21:59:59 worker.py[line:281] INFO 
+
+06 Oct 21:59:59 worker.py[line:179] INFO worker_1 at global epiode #32 start:
+06 Oct 22:00:00 Experience.py[line:176] INFO current beta is: 0.403221955179
+06 Oct 22:00:01 worker.py[line:281] INFO 
+
+06 Oct 22:00:01 worker.py[line:179] INFO worker_1 at global epiode #33 start:
+06 Oct 22:00:02 Experience.py[line:176] INFO current beta is: 0.403299629879
+06 Oct 22:00:02 worker.py[line:281] INFO 
+
+06 Oct 22:00:02 worker.py[line:179] INFO worker_1 at global epiode #34 start:
+06 Oct 22:00:04 Experience.py[line:176] INFO current beta is: 0.403379166553
+06 Oct 22:00:04 worker.py[line:281] INFO 
+
+06 Oct 22:00:04 worker.py[line:179] INFO worker_1 at global epiode #35 start:
+06 Oct 22:00:06 Experience.py[line:176] INFO current beta is: 0.403460609318
+06 Oct 22:00:06 worker.py[line:281] INFO 
+
+06 Oct 22:00:06 worker.py[line:179] INFO worker_1 at global epiode #36 start:
+06 Oct 22:00:07 Experience.py[line:176] INFO current beta is: 0.40354400331
+06 Oct 22:00:08 worker.py[line:281] INFO 
+
+06 Oct 22:00:08 worker.py[line:179] INFO worker_1 at global epiode #37 start:
+06 Oct 22:00:09 Experience.py[line:176] INFO current beta is: 0.403629394709
+06 Oct 22:00:09 worker.py[line:281] INFO 
+
+06 Oct 22:00:09 worker.py[line:179] INFO worker_1 at global epiode #38 start:
+06 Oct 22:00:11 Experience.py[line:176] INFO current beta is: 0.40371683076
+06 Oct 22:00:11 worker.py[line:281] INFO 
+
+06 Oct 22:00:11 worker.py[line:179] INFO worker_1 at global epiode #39 start:
+06 Oct 22:00:13 Experience.py[line:176] INFO current beta is: 0.403806359796
+06 Oct 22:00:13 worker.py[line:281] INFO 
+
+06 Oct 22:00:13 worker.py[line:179] INFO worker_1 at global epiode #40 start:
+06 Oct 22:00:14 Experience.py[line:176] INFO current beta is: 0.403898031262
+06 Oct 22:00:14 worker.py[line:281] INFO 
+
+06 Oct 22:00:14 worker.py[line:179] INFO worker_1 at global epiode #41 start:
+06 Oct 22:00:16 Experience.py[line:176] INFO current beta is: 0.40399189574
+06 Oct 22:00:16 worker.py[line:281] INFO 
+
+06 Oct 22:00:16 worker.py[line:179] INFO worker_1 at global epiode #42 start:
+06 Oct 22:00:18 Experience.py[line:176] INFO current beta is: 0.40408800497
+06 Oct 22:00:18 worker.py[line:281] INFO 
+
+06 Oct 22:00:18 worker.py[line:179] INFO worker_1 at global epiode #43 start:
+06 Oct 22:00:19 Experience.py[line:176] INFO current beta is: 0.404186411882
+06 Oct 22:00:20 worker.py[line:281] INFO 
+
+06 Oct 22:00:20 worker.py[line:179] INFO worker_1 at global epiode #44 start:
+06 Oct 22:00:21 Experience.py[line:176] INFO current beta is: 0.404287170613
+06 Oct 22:00:21 worker.py[line:281] INFO 
+
+06 Oct 22:00:21 worker.py[line:179] INFO worker_1 at global epiode #45 start:
+06 Oct 22:00:23 Experience.py[line:176] INFO current beta is: 0.40439033654
+06 Oct 22:00:23 worker.py[line:281] INFO 
+
+06 Oct 22:00:23 worker.py[line:179] INFO worker_1 at global epiode #46 start:
+06 Oct 22:00:25 Experience.py[line:176] INFO current beta is: 0.404495966302
+06 Oct 22:00:25 worker.py[line:281] INFO 
+
+06 Oct 22:00:25 worker.py[line:179] INFO worker_1 at global epiode #47 start:
+06 Oct 22:00:26 Experience.py[line:176] INFO current beta is: 0.404604117829
+06 Oct 22:00:27 worker.py[line:281] INFO 
+
+06 Oct 22:00:27 worker.py[line:179] INFO worker_1 at global epiode #48 start:
+06 Oct 22:00:28 Experience.py[line:176] INFO current beta is: 0.404714850369
+06 Oct 22:00:28 worker.py[line:281] INFO 
+
+06 Oct 22:00:28 worker.py[line:179] INFO worker_1 at global epiode #49 start:
+06 Oct 22:00:30 Experience.py[line:176] INFO current beta is: 0.404828224514
+06 Oct 22:00:30 worker.py[line:281] INFO 
+
+06 Oct 22:00:30 worker.py[line:179] INFO worker_1 at global epiode #50 start:
+06 Oct 22:00:32 Experience.py[line:176] INFO current beta is: 0.404944302231
+06 Oct 22:00:32 worker.py[line:281] INFO 
+
+06 Oct 22:00:32 worker.py[line:179] INFO worker_1 at global epiode #51 start:
+06 Oct 22:00:33 Experience.py[line:176] INFO current beta is: 0.405063146889
+06 Oct 22:00:33 worker.py[line:281] INFO 
+
+06 Oct 22:00:33 worker.py[line:179] INFO worker_1 at global epiode #52 start:
+06 Oct 22:00:35 Experience.py[line:176] INFO current beta is: 0.405184823289
+06 Oct 22:00:35 worker.py[line:281] INFO 
+
+06 Oct 22:00:35 worker.py[line:179] INFO worker_1 at global epiode #53 start:
+06 Oct 22:00:37 Experience.py[line:176] INFO current beta is: 0.405309397693
+06 Oct 22:00:37 worker.py[line:281] INFO 
+
+06 Oct 22:00:37 worker.py[line:179] INFO worker_1 at global epiode #54 start:
+06 Oct 22:00:38 Experience.py[line:176] INFO current beta is: 0.405436937855
+06 Oct 22:00:39 worker.py[line:281] INFO 
+
+06 Oct 22:00:39 worker.py[line:179] INFO worker_1 at global epiode #55 start:
+06 Oct 22:00:40 Experience.py[line:176] INFO current beta is: 0.405567513051
+06 Oct 22:00:40 worker.py[line:281] INFO 
+
+06 Oct 22:00:40 worker.py[line:179] INFO worker_1 at global epiode #56 start:
+06 Oct 22:00:42 Experience.py[line:176] INFO current beta is: 0.405701194112
+06 Oct 22:00:42 worker.py[line:281] INFO 
+
+06 Oct 22:00:42 worker.py[line:179] INFO worker_1 at global epiode #57 start:
+06 Oct 22:00:44 Experience.py[line:176] INFO current beta is: 0.405838053453
+06 Oct 22:00:44 worker.py[line:281] INFO 
+
+06 Oct 22:00:44 worker.py[line:179] INFO worker_1 at global epiode #58 start:
+06 Oct 22:00:45 Experience.py[line:176] INFO current beta is: 0.405978165107
+06 Oct 22:00:46 worker.py[line:281] INFO 
+
+06 Oct 22:00:46 worker.py[line:179] INFO worker_1 at global epiode #59 start:
+06 Oct 22:00:47 Experience.py[line:176] INFO current beta is: 0.406121604756
+06 Oct 22:00:47 worker.py[line:281] INFO 
+
+06 Oct 22:00:47 worker.py[line:179] INFO worker_1 at global epiode #60 start:
+06 Oct 22:00:49 Experience.py[line:176] INFO current beta is: 0.406268449767
+06 Oct 22:00:49 worker.py[line:281] INFO 
+
+06 Oct 22:00:49 worker.py[line:179] INFO worker_1 at global epiode #61 start:
+06 Oct 22:00:51 Experience.py[line:176] INFO current beta is: 0.406418779223
+06 Oct 22:00:51 worker.py[line:281] INFO 
+
+06 Oct 22:00:51 worker.py[line:179] INFO worker_1 at global epiode #62 start:
+06 Oct 22:00:52 Experience.py[line:176] INFO current beta is: 0.406572673958
+06 Oct 22:00:53 worker.py[line:281] INFO 
+
+06 Oct 22:00:56 worker.py[line:173] INFO Starting worker 2
+06 Oct 22:00:56 worker.py[line:179] INFO worker_2 at global epiode #0 start:
+06 Oct 22:00:57 Experience.py[line:176] INFO current beta is: 0.401501403336
+06 Oct 22:00:58 worker.py[line:281] INFO 
+
+06 Oct 22:00:58 worker.py[line:179] INFO worker_2 at global epiode #1 start:
+06 Oct 22:01:00 Experience.py[line:176] INFO current beta is: 0.401537705955
+06 Oct 22:01:00 worker.py[line:281] INFO 
+
+06 Oct 22:01:00 worker.py[line:179] INFO worker_2 at global epiode #2 start:
+06 Oct 22:01:01 Experience.py[line:176] INFO current beta is: 0.401574884029
+06 Oct 22:01:02 worker.py[line:281] INFO 
+
+06 Oct 22:01:02 worker.py[line:179] INFO worker_2 at global epiode #3 start:
+06 Oct 22:01:03 Experience.py[line:176] INFO current beta is: 0.401612958558
+06 Oct 22:01:03 worker.py[line:281] INFO 
+
+06 Oct 22:01:03 worker.py[line:179] INFO worker_2 at global epiode #4 start:
+06 Oct 22:01:05 Experience.py[line:176] INFO current beta is: 0.401651951039
+06 Oct 22:01:05 worker.py[line:281] INFO 
+
+06 Oct 22:01:05 worker.py[line:179] INFO worker_2 at global epiode #5 start:
+06 Oct 22:01:07 Experience.py[line:176] INFO current beta is: 0.401691883479
+06 Oct 22:01:07 worker.py[line:281] INFO 
+
+06 Oct 22:01:07 worker.py[line:179] INFO worker_2 at global epiode #6 start:
+06 Oct 22:01:08 Experience.py[line:176] INFO current beta is: 0.401732778407
+06 Oct 22:01:09 worker.py[line:281] INFO 
+
+06 Oct 22:01:09 worker.py[line:179] INFO worker_2 at global epiode #7 start:
+06 Oct 22:01:10 Experience.py[line:176] INFO current beta is: 0.401774658883
+06 Oct 22:01:10 worker.py[line:281] INFO 
+
+06 Oct 22:01:10 worker.py[line:179] INFO worker_2 at global epiode #8 start:
+06 Oct 22:01:12 Experience.py[line:176] INFO current beta is: 0.401817548517
+06 Oct 22:01:12 worker.py[line:281] INFO 
+
+06 Oct 22:01:12 worker.py[line:179] INFO worker_2 at global epiode #9 start:
+06 Oct 22:01:14 Experience.py[line:176] INFO current beta is: 0.401861471475
+06 Oct 22:01:14 worker.py[line:281] INFO 
+
+06 Oct 22:01:14 worker.py[line:179] INFO worker_2 at global epiode #10 start:
+06 Oct 22:01:15 Experience.py[line:176] INFO current beta is: 0.401906452493
+06 Oct 22:01:16 worker.py[line:281] INFO 
+
+06 Oct 22:01:16 worker.py[line:179] INFO worker_2 at global epiode #11 start:
+06 Oct 22:01:17 Experience.py[line:176] INFO current beta is: 0.401952516895
+06 Oct 22:01:17 worker.py[line:281] INFO 
+
+06 Oct 22:01:17 worker.py[line:179] INFO worker_2 at global epiode #12 start:
+06 Oct 22:01:19 Experience.py[line:176] INFO current beta is: 0.401999690601
+06 Oct 22:01:19 worker.py[line:281] INFO 
+
+06 Oct 22:01:19 worker.py[line:179] INFO worker_2 at global epiode #13 start:
+06 Oct 22:01:20 Experience.py[line:176] INFO current beta is: 0.402048000142
+06 Oct 22:01:21 worker.py[line:281] INFO 
+
+06 Oct 22:01:21 worker.py[line:179] INFO worker_2 at global epiode #14 start:
+06 Oct 22:01:22 Experience.py[line:176] INFO current beta is: 0.402097472676
+06 Oct 22:01:22 worker.py[line:281] INFO 
+
+06 Oct 22:01:22 worker.py[line:179] INFO worker_2 at global epiode #15 start:
+06 Oct 22:01:24 Experience.py[line:176] INFO current beta is: 0.402148136
+06 Oct 22:01:24 worker.py[line:281] INFO 
+
+06 Oct 22:01:24 worker.py[line:179] INFO worker_2 at global epiode #16 start:
+06 Oct 22:01:26 Experience.py[line:176] INFO current beta is: 0.402200018566
+06 Oct 22:01:26 worker.py[line:281] INFO 
+
+06 Oct 22:01:26 worker.py[line:179] INFO worker_2 at global epiode #17 start:
+06 Oct 22:01:27 Experience.py[line:176] INFO current beta is: 0.402253149497
+06 Oct 22:01:28 worker.py[line:281] INFO 
+
+06 Oct 22:01:28 worker.py[line:179] INFO worker_2 at global epiode #18 start:
+06 Oct 22:01:29 Experience.py[line:176] INFO current beta is: 0.402307558599
+06 Oct 22:01:29 worker.py[line:281] INFO 
+
+06 Oct 22:01:29 worker.py[line:179] INFO worker_2 at global epiode #19 start:
+06 Oct 22:01:31 Experience.py[line:176] INFO current beta is: 0.402363276378
+06 Oct 22:01:31 worker.py[line:281] INFO 
+
+06 Oct 22:01:31 worker.py[line:179] INFO worker_2 at global epiode #20 start:
+06 Oct 22:01:33 Experience.py[line:176] INFO current beta is: 0.402420334058
+06 Oct 22:01:33 worker.py[line:281] INFO 
+
+06 Oct 22:01:33 worker.py[line:179] INFO worker_2 at global epiode #21 start:
+06 Oct 22:01:34 Experience.py[line:176] INFO current beta is: 0.402478763594
+06 Oct 22:01:35 worker.py[line:281] INFO 
+
+06 Oct 22:01:35 worker.py[line:179] INFO worker_2 at global epiode #22 start:
+06 Oct 22:01:36 Experience.py[line:176] INFO current beta is: 0.402538597692
+06 Oct 22:01:36 worker.py[line:281] INFO 
+
+06 Oct 22:01:36 worker.py[line:179] INFO worker_2 at global epiode #23 start:
+06 Oct 22:01:38 Experience.py[line:176] INFO current beta is: 0.402599869822
+06 Oct 22:01:38 worker.py[line:281] INFO 
+
+06 Oct 22:01:38 worker.py[line:179] INFO worker_2 at global epiode #24 start:
+06 Oct 22:01:40 Experience.py[line:176] INFO current beta is: 0.402662614238
+06 Oct 22:01:40 worker.py[line:281] INFO 
+
+06 Oct 22:01:40 worker.py[line:179] INFO worker_2 at global epiode #25 start:
+06 Oct 22:01:41 Experience.py[line:176] INFO current beta is: 0.402726865996
+06 Oct 22:01:42 worker.py[line:281] INFO 
+
+06 Oct 22:01:42 worker.py[line:179] INFO worker_2 at global epiode #26 start:
+06 Oct 22:01:43 Experience.py[line:176] INFO current beta is: 0.402792660969
+06 Oct 22:01:43 worker.py[line:281] INFO 
+
+06 Oct 22:01:43 worker.py[line:179] INFO worker_2 at global epiode #27 start:
+06 Oct 22:01:45 Experience.py[line:176] INFO current beta is: 0.402860035869
+06 Oct 22:01:45 worker.py[line:281] INFO 
+
+06 Oct 22:01:45 worker.py[line:179] INFO worker_2 at global epiode #28 start:
+06 Oct 22:01:47 Experience.py[line:176] INFO current beta is: 0.402929028264
+06 Oct 22:01:47 worker.py[line:281] INFO 
+
+06 Oct 22:01:47 worker.py[line:179] INFO worker_2 at global epiode #29 start:
+06 Oct 22:01:48 Experience.py[line:176] INFO current beta is: 0.402999676596
+06 Oct 22:01:48 worker.py[line:281] INFO 
+
+06 Oct 22:01:48 worker.py[line:179] INFO worker_2 at global epiode #30 start:
+06 Oct 22:01:50 Experience.py[line:176] INFO current beta is: 0.403072020202
+06 Oct 22:01:50 worker.py[line:281] INFO 
+
+06 Oct 22:01:50 worker.py[line:179] INFO worker_2 at global epiode #31 start:
+06 Oct 22:01:52 Experience.py[line:176] INFO current beta is: 0.403146099334
+06 Oct 22:01:52 worker.py[line:281] INFO 
+
+06 Oct 22:01:52 worker.py[line:179] INFO worker_2 at global epiode #32 start:
+06 Oct 22:01:53 Experience.py[line:176] INFO current beta is: 0.403221955179
+06 Oct 22:01:54 worker.py[line:281] INFO 
+
+06 Oct 22:01:54 worker.py[line:179] INFO worker_2 at global epiode #33 start:
+06 Oct 22:01:55 Experience.py[line:176] INFO current beta is: 0.403299629879
+06 Oct 22:01:55 worker.py[line:281] INFO 
+
+06 Oct 22:01:55 worker.py[line:179] INFO worker_2 at global epiode #34 start:
+06 Oct 22:01:57 Experience.py[line:176] INFO current beta is: 0.403379166553
+06 Oct 22:01:57 worker.py[line:281] INFO 
+
+06 Oct 22:01:57 worker.py[line:179] INFO worker_2 at global epiode #35 start:
+06 Oct 22:01:59 Experience.py[line:176] INFO current beta is: 0.403460609318
+06 Oct 22:01:59 worker.py[line:281] INFO 
+
+06 Oct 22:01:59 worker.py[line:179] INFO worker_2 at global epiode #36 start:
+06 Oct 22:02:00 Experience.py[line:176] INFO current beta is: 0.40354400331
+06 Oct 22:02:00 worker.py[line:281] INFO 
+
+06 Oct 22:02:00 worker.py[line:179] INFO worker_2 at global epiode #37 start:
+06 Oct 22:02:02 Experience.py[line:176] INFO current beta is: 0.403629394709
+06 Oct 22:02:02 worker.py[line:281] INFO 
+
+06 Oct 22:02:02 worker.py[line:179] INFO worker_2 at global epiode #38 start:
+06 Oct 22:02:04 Experience.py[line:176] INFO current beta is: 0.40371683076
+06 Oct 22:02:04 worker.py[line:281] INFO 
+
+06 Oct 22:02:04 worker.py[line:179] INFO worker_2 at global epiode #39 start:
+06 Oct 22:02:05 Experience.py[line:176] INFO current beta is: 0.403806359796
+06 Oct 22:02:06 worker.py[line:281] INFO 
+
+06 Oct 22:02:06 worker.py[line:179] INFO worker_2 at global epiode #40 start:
+06 Oct 22:02:07 Experience.py[line:176] INFO current beta is: 0.403898031262
+06 Oct 22:02:07 worker.py[line:281] INFO 
+
+06 Oct 22:02:07 worker.py[line:179] INFO worker_2 at global epiode #41 start:
+06 Oct 22:02:09 Experience.py[line:176] INFO current beta is: 0.40399189574
+06 Oct 22:02:09 worker.py[line:281] INFO 
+
+06 Oct 22:02:09 worker.py[line:179] INFO worker_2 at global epiode #42 start:
+06 Oct 22:02:11 Experience.py[line:176] INFO current beta is: 0.40408800497
+06 Oct 22:02:11 worker.py[line:281] INFO 
+
+06 Oct 22:02:11 worker.py[line:179] INFO worker_2 at global epiode #43 start:
+06 Oct 22:02:12 Experience.py[line:176] INFO current beta is: 0.404186411882
+06 Oct 22:02:13 worker.py[line:281] INFO 
+
+06 Oct 22:02:13 worker.py[line:179] INFO worker_2 at global epiode #44 start:
+06 Oct 22:02:14 Experience.py[line:176] INFO current beta is: 0.404287170613
+06 Oct 22:02:14 worker.py[line:281] INFO 
+
+06 Oct 22:02:14 worker.py[line:179] INFO worker_2 at global epiode #45 start:
+06 Oct 22:02:16 Experience.py[line:176] INFO current beta is: 0.40439033654
+06 Oct 22:02:16 worker.py[line:281] INFO 
+
+06 Oct 22:02:16 worker.py[line:179] INFO worker_2 at global epiode #46 start:
+06 Oct 22:02:18 Experience.py[line:176] INFO current beta is: 0.404495966302
+06 Oct 22:02:18 worker.py[line:281] INFO 
+
+06 Oct 22:02:18 worker.py[line:179] INFO worker_2 at global epiode #47 start:
+06 Oct 22:02:19 Experience.py[line:176] INFO current beta is: 0.404604117829
+06 Oct 22:02:19 worker.py[line:281] INFO 
+
+06 Oct 22:02:19 worker.py[line:179] INFO worker_2 at global epiode #48 start:
+06 Oct 22:02:21 Experience.py[line:176] INFO current beta is: 0.404714850369
+06 Oct 22:02:21 worker.py[line:281] INFO 
+
+06 Oct 22:02:21 worker.py[line:179] INFO worker_2 at global epiode #49 start:
+06 Oct 22:02:23 Experience.py[line:176] INFO current beta is: 0.404828224514
+06 Oct 22:02:23 worker.py[line:281] INFO 
+
+06 Oct 22:02:23 worker.py[line:179] INFO worker_2 at global epiode #50 start:
+06 Oct 22:02:24 Experience.py[line:176] INFO current beta is: 0.404944302231
+06 Oct 22:02:25 worker.py[line:281] INFO 
+
+06 Oct 22:02:25 worker.py[line:179] INFO worker_2 at global epiode #51 start:
+06 Oct 22:02:26 Experience.py[line:176] INFO current beta is: 0.405063146889
+06 Oct 22:02:26 worker.py[line:281] INFO 
+
+06 Oct 22:02:26 worker.py[line:179] INFO worker_2 at global epiode #52 start:
+06 Oct 22:02:28 Experience.py[line:176] INFO current beta is: 0.405184823289
+06 Oct 22:02:28 worker.py[line:281] INFO 
+
+06 Oct 22:02:28 worker.py[line:179] INFO worker_2 at global epiode #53 start:
+06 Oct 22:02:30 Experience.py[line:176] INFO current beta is: 0.405309397693
+06 Oct 22:02:30 worker.py[line:281] INFO 
+
+06 Oct 22:02:30 worker.py[line:179] INFO worker_2 at global epiode #54 start:
+06 Oct 22:02:31 Experience.py[line:176] INFO current beta is: 0.405436937855
+06 Oct 22:02:32 worker.py[line:281] INFO 
+
+06 Oct 22:02:32 worker.py[line:179] INFO worker_2 at global epiode #55 start:
+06 Oct 22:02:33 Experience.py[line:176] INFO current beta is: 0.405567513051
+06 Oct 22:02:33 worker.py[line:281] INFO 
+
+06 Oct 22:02:33 worker.py[line:179] INFO worker_2 at global epiode #56 start:
+06 Oct 22:02:35 Experience.py[line:176] INFO current beta is: 0.405701194112
+06 Oct 22:02:35 worker.py[line:281] INFO 
+
+06 Oct 22:02:35 worker.py[line:179] INFO worker_2 at global epiode #57 start:
+06 Oct 22:02:37 Experience.py[line:176] INFO current beta is: 0.405838053453
+06 Oct 22:02:37 worker.py[line:281] INFO 
+
+06 Oct 22:02:37 worker.py[line:179] INFO worker_2 at global epiode #58 start:
+06 Oct 22:02:38 Experience.py[line:176] INFO current beta is: 0.405978165107
+06 Oct 22:02:38 worker.py[line:281] INFO 
+
+06 Oct 22:02:38 worker.py[line:179] INFO worker_2 at global epiode #59 start:
+06 Oct 22:02:40 Experience.py[line:176] INFO current beta is: 0.406121604756
+06 Oct 22:02:40 worker.py[line:281] INFO 
+
+06 Oct 22:02:40 worker.py[line:179] INFO worker_2 at global epiode #60 start:
+06 Oct 22:02:42 Experience.py[line:176] INFO current beta is: 0.406268449767
+06 Oct 22:02:42 worker.py[line:281] INFO 
+
+06 Oct 22:02:42 worker.py[line:179] INFO worker_2 at global epiode #61 start:
+06 Oct 22:02:43 Experience.py[line:176] INFO current beta is: 0.406418779223
+06 Oct 22:02:44 worker.py[line:281] INFO 
+
+06 Oct 22:02:44 worker.py[line:179] INFO worker_2 at global epiode #62 start:
+06 Oct 22:02:45 Experience.py[line:176] INFO current beta is: 0.406572673958
+06 Oct 22:02:45 worker.py[line:281] INFO 
+
+06 Oct 22:02:45 worker.py[line:179] INFO worker_2 at global epiode #63 start:
+06 Oct 22:02:47 Experience.py[line:176] INFO current beta is: 0.406730216591
+06 Oct 22:02:47 worker.py[line:281] INFO 
+
+06 Oct 22:02:47 worker.py[line:179] INFO worker_2 at global epiode #64 start:
+06 Oct 22:02:49 Experience.py[line:176] INFO current beta is: 0.406891491564
+06 Oct 22:02:49 worker.py[line:281] INFO 
+
+06 Oct 22:02:49 worker.py[line:179] INFO worker_2 at global epiode #65 start:
+06 Oct 22:02:50 Experience.py[line:176] INFO current beta is: 0.407056585173
+06 Oct 22:02:51 worker.py[line:281] INFO 
+
+06 Oct 22:02:51 worker.py[line:179] INFO worker_2 at global epiode #66 start:
+06 Oct 22:02:52 Experience.py[line:176] INFO current beta is: 0.407225585608
+06 Oct 22:02:52 worker.py[line:281] INFO 
+
+06 Oct 22:02:52 worker.py[line:179] INFO worker_2 at global epiode #67 start:
+06 Oct 22:02:54 Experience.py[line:176] INFO current beta is: 0.407398582985
+06 Oct 22:02:54 worker.py[line:281] INFO 
+
+06 Oct 22:02:54 worker.py[line:179] INFO worker_2 at global epiode #68 start:
+06 Oct 22:02:55 Experience.py[line:176] INFO current beta is: 0.407575669389
+06 Oct 22:02:56 worker.py[line:281] INFO 
+
+06 Oct 22:02:56 worker.py[line:179] INFO worker_2 at global epiode #69 start:
+06 Oct 22:02:57 Experience.py[line:176] INFO current beta is: 0.407756938906
+06 Oct 22:02:57 worker.py[line:281] INFO 
+
+06 Oct 22:02:57 worker.py[line:179] INFO worker_2 at global epiode #70 start:
+06 Oct 22:02:59 Experience.py[line:176] INFO current beta is: 0.407942487663
+06 Oct 22:02:59 worker.py[line:281] INFO 
+
+06 Oct 22:02:59 worker.py[line:179] INFO worker_2 at global epiode #71 start:
+06 Oct 22:03:01 Experience.py[line:176] INFO current beta is: 0.408132413867
+06 Oct 22:03:01 worker.py[line:281] INFO 
+
+06 Oct 22:03:01 worker.py[line:179] INFO worker_2 at global epiode #72 start:
+06 Oct 22:03:02 Experience.py[line:176] INFO current beta is: 0.408326817842
+06 Oct 22:03:03 worker.py[line:281] INFO 
+
+06 Oct 22:03:03 worker.py[line:179] INFO worker_2 at global epiode #73 start:
+06 Oct 22:03:04 Experience.py[line:176] INFO current beta is: 0.408525802068
+06 Oct 22:03:04 worker.py[line:281] INFO 
+
+06 Oct 22:03:04 worker.py[line:179] INFO worker_2 at global epiode #74 start:
+06 Oct 22:03:06 Experience.py[line:176] INFO current beta is: 0.408729471223
+06 Oct 22:03:06 worker.py[line:281] INFO 
+
+06 Oct 22:03:06 worker.py[line:179] INFO worker_2 at global epiode #75 start:
+06 Oct 22:03:08 Experience.py[line:176] INFO current beta is: 0.408937932219
+06 Oct 22:03:08 worker.py[line:281] INFO 
+
+06 Oct 22:03:08 worker.py[line:179] INFO worker_2 at global epiode #76 start:
+06 Oct 22:03:09 Experience.py[line:176] INFO current beta is: 0.409151294246
+06 Oct 22:03:09 worker.py[line:281] INFO 
+
+06 Oct 22:03:09 worker.py[line:179] INFO worker_2 at global epiode #77 start:
+06 Oct 22:03:11 Experience.py[line:176] INFO current beta is: 0.409369668809
+06 Oct 22:03:11 worker.py[line:281] INFO 
+
+06 Oct 22:03:11 worker.py[line:179] INFO worker_2 at global epiode #78 start:
+06 Oct 22:03:13 Experience.py[line:176] INFO current beta is: 0.40959316977
+06 Oct 22:03:13 worker.py[line:281] INFO 
+
+06 Oct 22:03:13 worker.py[line:179] INFO worker_2 at global epiode #79 start:
+06 Oct 22:03:14 Experience.py[line:176] INFO current beta is: 0.409821913392
+06 Oct 22:03:15 worker.py[line:281] INFO 
+
+06 Oct 22:03:15 worker.py[line:179] INFO worker_2 at global epiode #80 start:
+06 Oct 22:03:16 Experience.py[line:176] INFO current beta is: 0.410056018375
+06 Oct 22:03:16 worker.py[line:281] INFO 
+
+06 Oct 22:03:16 worker.py[line:179] INFO worker_2 at global epiode #81 start:
+06 Oct 22:03:18 Experience.py[line:176] INFO current beta is: 0.410295605902
+06 Oct 22:03:18 worker.py[line:281] INFO 
+
+06 Oct 22:03:18 worker.py[line:179] INFO worker_2 at global epiode #82 start:
+06 Oct 22:03:20 Experience.py[line:176] INFO current beta is: 0.410540799679
+06 Oct 22:03:20 worker.py[line:281] INFO 
+
+06 Oct 22:03:20 worker.py[line:179] INFO worker_2 at global epiode #83 start:
+06 Oct 22:03:21 Experience.py[line:176] INFO current beta is: 0.410791725977
+06 Oct 22:03:22 worker.py[line:281] INFO 
+
+06 Oct 22:03:22 worker.py[line:179] INFO worker_2 at global epiode #84 start:
+06 Oct 22:03:23 Experience.py[line:176] INFO current beta is: 0.411048513675
+06 Oct 22:03:23 worker.py[line:281] INFO 
+
+06 Oct 22:03:23 worker.py[line:179] INFO worker_2 at global epiode #85 start:
+06 Oct 22:03:25 Experience.py[line:176] INFO current beta is: 0.411311294302
+06 Oct 22:03:25 worker.py[line:281] INFO 
+
+06 Oct 22:03:25 worker.py[line:179] INFO worker_2 at global epiode #86 start:
+06 Oct 22:03:26 Experience.py[line:176] INFO current beta is: 0.411580202078
+06 Oct 22:03:27 worker.py[line:281] INFO 
+
+06 Oct 22:03:27 worker.py[line:179] INFO worker_2 at global epiode #87 start:
+06 Oct 22:03:28 Experience.py[line:176] INFO current beta is: 0.41185537396
+06 Oct 22:03:28 worker.py[line:281] INFO 
+
+06 Oct 22:03:28 worker.py[line:179] INFO worker_2 at global epiode #88 start:
+06 Oct 22:03:30 Experience.py[line:176] INFO current beta is: 0.412136949681
+06 Oct 22:03:30 worker.py[line:281] INFO 
+
+06 Oct 22:03:30 worker.py[line:179] INFO worker_2 at global epiode #89 start:
+06 Oct 22:03:32 Experience.py[line:176] INFO current beta is: 0.412425071793
+06 Oct 22:03:32 worker.py[line:281] INFO 
+
+06 Oct 22:03:32 worker.py[line:179] INFO worker_2 at global epiode #90 start:
+06 Oct 22:03:33 Experience.py[line:176] INFO current beta is: 0.412719885713
+06 Oct 22:03:34 worker.py[line:281] INFO 
+
+06 Oct 22:03:34 worker.py[line:179] INFO worker_2 at global epiode #91 start:
+06 Oct 22:03:35 Experience.py[line:176] INFO current beta is: 0.413021539761
+06 Oct 22:03:35 worker.py[line:281] INFO 
+
+06 Oct 22:03:35 worker.py[line:179] INFO worker_2 at global epiode #92 start:
+06 Oct 22:03:37 Experience.py[line:176] INFO current beta is: 0.413330185203
+06 Oct 22:03:37 worker.py[line:281] INFO 
+
+06 Oct 22:03:37 worker.py[line:179] INFO worker_2 at global epiode #93 start:
+06 Oct 22:03:38 Experience.py[line:176] INFO current beta is: 0.413645976295
+06 Oct 22:03:39 worker.py[line:281] INFO 
+
+06 Oct 22:03:39 worker.py[line:179] INFO worker_2 at global epiode #94 start:
+06 Oct 22:03:40 Experience.py[line:176] INFO current beta is: 0.413969070325
+06 Oct 22:03:40 worker.py[line:281] INFO 
+
+06 Oct 22:03:40 worker.py[line:179] INFO worker_2 at global epiode #95 start:
+06 Oct 22:03:42 Experience.py[line:176] INFO current beta is: 0.414299627651
+06 Oct 22:03:42 worker.py[line:281] INFO 
+
+06 Oct 22:03:42 worker.py[line:179] INFO worker_2 at global epiode #96 start:
+06 Oct 22:03:44 Experience.py[line:176] INFO current beta is: 0.414637811745
+06 Oct 22:03:44 worker.py[line:281] INFO 
+
+06 Oct 22:03:44 worker.py[line:179] INFO worker_2 at global epiode #97 start:
+06 Oct 22:03:45 Experience.py[line:176] INFO current beta is: 0.414983789233
+06 Oct 22:03:46 worker.py[line:281] INFO 
+
+06 Oct 22:03:46 worker.py[line:179] INFO worker_2 at global epiode #98 start:
+06 Oct 22:03:47 Experience.py[line:176] INFO current beta is: 0.415337729934
+06 Oct 22:03:47 worker.py[line:281] INFO 
+
+06 Oct 22:03:47 worker.py[line:179] INFO worker_2 at global epiode #99 start:
+06 Oct 22:03:49 Experience.py[line:176] INFO current beta is: 0.415699806901
+06 Oct 22:03:49 worker.py[line:281] INFO 
+
+06 Oct 22:03:49 worker.py[line:186] INFO worker_2 Saved Model
+06 Oct 22:03:49 worker.py[line:179] INFO worker_2 at global epiode #100 start:
+06 Oct 22:03:51 Experience.py[line:176] INFO current beta is: 0.41607019646
+06 Oct 22:03:51 worker.py[line:281] INFO 
+
+06 Oct 22:03:51 worker.py[line:179] INFO worker_2 at global epiode #101 start:
+06 Oct 22:03:52 Experience.py[line:176] INFO current beta is: 0.416449078246
+06 Oct 22:03:53 worker.py[line:281] INFO 
+
+06 Oct 22:03:53 worker.py[line:179] INFO worker_2 at global epiode #102 start:
+06 Oct 22:03:54 Experience.py[line:176] INFO current beta is: 0.416836635243
+06 Oct 22:03:54 worker.py[line:281] INFO 
+
+06 Oct 22:03:54 worker.py[line:179] INFO worker_2 at global epiode #103 start:
+06 Oct 22:03:56 Experience.py[line:176] INFO current beta is: 0.417233053819
+06 Oct 22:03:56 worker.py[line:281] INFO 
+
+06 Oct 22:03:56 worker.py[line:179] INFO worker_2 at global epiode #104 start:
+06 Oct 22:03:58 Experience.py[line:176] INFO current beta is: 0.417638523762
+06 Oct 22:03:58 worker.py[line:281] INFO 
+
+06 Oct 22:03:58 worker.py[line:179] INFO worker_2 at global epiode #105 start:
+06 Oct 22:03:59 Experience.py[line:176] INFO current beta is: 0.418053238312
+06 Oct 22:04:00 worker.py[line:281] INFO 
+
+06 Oct 22:04:00 worker.py[line:179] INFO worker_2 at global epiode #106 start:
+06 Oct 22:04:01 Experience.py[line:176] INFO current beta is: 0.4184773942
+06 Oct 22:04:01 worker.py[line:281] INFO 
+
+06 Oct 22:04:01 worker.py[line:179] INFO worker_2 at global epiode #107 start:
+06 Oct 22:04:03 Experience.py[line:176] INFO current beta is: 0.418911191673
+06 Oct 22:04:03 worker.py[line:281] INFO 
+
+06 Oct 22:04:03 worker.py[line:179] INFO worker_2 at global epiode #108 start:
+06 Oct 22:04:05 Experience.py[line:176] INFO current beta is: 0.41935483453
+06 Oct 22:04:05 worker.py[line:281] INFO 
+
+06 Oct 22:04:05 worker.py[line:179] INFO worker_2 at global epiode #109 start:
+06 Oct 22:04:06 Experience.py[line:176] INFO current beta is: 0.419808530149
+06 Oct 22:04:06 worker.py[line:281] INFO 
+
+06 Oct 22:04:06 worker.py[line:179] INFO worker_2 at global epiode #110 start:
+06 Oct 22:04:08 Experience.py[line:176] INFO current beta is: 0.420272489512
+06 Oct 22:04:08 worker.py[line:281] INFO 
+
+06 Oct 22:04:08 worker.py[line:179] INFO worker_2 at global epiode #111 start:
+06 Oct 22:04:10 Experience.py[line:176] INFO current beta is: 0.420746927235
+06 Oct 22:04:10 worker.py[line:281] INFO 
+
+06 Oct 22:04:10 worker.py[line:179] INFO worker_2 at global epiode #112 start:
+06 Oct 22:04:11 Experience.py[line:176] INFO current beta is: 0.421232061591
+06 Oct 22:04:12 worker.py[line:281] INFO 
+
+06 Oct 22:04:12 worker.py[line:179] INFO worker_2 at global epiode #113 start:
+06 Oct 22:04:13 Experience.py[line:176] INFO current beta is: 0.421728114529
+06 Oct 22:04:13 worker.py[line:281] INFO 
+
+06 Oct 22:04:13 worker.py[line:179] INFO worker_2 at global epiode #114 start:
+06 Oct 22:04:15 Experience.py[line:176] INFO current beta is: 0.422235311697
+06 Oct 22:04:15 worker.py[line:281] INFO 
+
+06 Oct 22:04:15 worker.py[line:179] INFO worker_2 at global epiode #115 start:
+06 Oct 22:04:17 Experience.py[line:176] INFO current beta is: 0.422753882457
+06 Oct 22:04:17 worker.py[line:281] INFO 
+
+06 Oct 22:04:17 worker.py[line:179] INFO worker_2 at global epiode #116 start:
+06 Oct 22:04:18 Experience.py[line:176] INFO current beta is: 0.423284059903
+06 Oct 22:04:19 worker.py[line:281] INFO 
+
+06 Oct 22:04:19 worker.py[line:179] INFO worker_2 at global epiode #117 start:
+06 Oct 22:04:20 Experience.py[line:176] INFO current beta is: 0.423826080869
+06 Oct 22:04:20 worker.py[line:281] INFO 
+
+06 Oct 22:04:20 worker.py[line:179] INFO worker_2 at global epiode #118 start:
+06 Oct 22:04:22 Experience.py[line:176] INFO current beta is: 0.424380185946
+06 Oct 22:04:22 worker.py[line:281] INFO 
+
+06 Oct 22:04:22 worker.py[line:179] INFO worker_2 at global epiode #119 start:
+06 Oct 22:04:23 Experience.py[line:176] INFO current beta is: 0.424946619481
+06 Oct 22:04:24 worker.py[line:281] INFO 
+
+06 Oct 22:04:24 worker.py[line:179] INFO worker_2 at global epiode #120 start:
+06 Oct 22:04:25 Experience.py[line:176] INFO current beta is: 0.425525629586
+06 Oct 22:04:25 worker.py[line:281] INFO 
+
+06 Oct 22:04:25 worker.py[line:179] INFO worker_2 at global epiode #121 start:
+06 Oct 22:04:27 Experience.py[line:176] INFO current beta is: 0.426117468138
+06 Oct 22:04:27 worker.py[line:281] INFO 
+
+06 Oct 22:04:27 worker.py[line:179] INFO worker_2 at global epiode #122 start:
+06 Oct 22:04:29 Experience.py[line:176] INFO current beta is: 0.426722390774
+06 Oct 22:04:29 worker.py[line:281] INFO 
+
+06 Oct 22:04:29 worker.py[line:179] INFO worker_2 at global epiode #123 start:
+06 Oct 22:04:30 Experience.py[line:176] INFO current beta is: 0.427340656888
+06 Oct 22:04:31 worker.py[line:281] INFO 
+
+06 Oct 22:04:31 worker.py[line:179] INFO worker_2 at global epiode #124 start:
+06 Oct 22:04:32 Experience.py[line:176] INFO current beta is: 0.427972529618
+06 Oct 22:04:32 worker.py[line:281] INFO 
+
+06 Oct 22:04:32 worker.py[line:179] INFO worker_2 at global epiode #125 start:
+06 Oct 22:04:34 Experience.py[line:176] INFO current beta is: 0.428618275834
+06 Oct 22:04:34 worker.py[line:281] INFO 
+
+06 Oct 22:04:34 worker.py[line:179] INFO worker_2 at global epiode #126 start:
+06 Oct 22:04:35 Experience.py[line:176] INFO current beta is: 0.429278166121
+06 Oct 22:04:36 worker.py[line:281] INFO 
+
+06 Oct 22:04:36 worker.py[line:179] INFO worker_2 at global epiode #127 start:
+06 Oct 22:04:37 Experience.py[line:176] INFO current beta is: 0.429952474751
+06 Oct 22:04:37 worker.py[line:281] INFO 
+
+06 Oct 22:04:37 worker.py[line:179] INFO worker_2 at global epiode #128 start:
+06 Oct 22:04:39 Experience.py[line:176] INFO current beta is: 0.430641479662
+06 Oct 22:04:39 worker.py[line:281] INFO 
+
+06 Oct 22:04:39 worker.py[line:179] INFO worker_2 at global epiode #129 start:
+06 Oct 22:04:41 Experience.py[line:176] INFO current beta is: 0.431345462424
+06 Oct 22:04:41 worker.py[line:281] INFO 
+
+06 Oct 22:04:41 worker.py[line:179] INFO worker_2 at global epiode #130 start:
+06 Oct 22:04:42 Experience.py[line:176] INFO current beta is: 0.432064708201
+06 Oct 22:04:43 worker.py[line:281] INFO 
+
+06 Oct 22:04:43 worker.py[line:179] INFO worker_2 at global epiode #131 start:
+06 Oct 22:04:44 Experience.py[line:176] INFO current beta is: 0.432799505711
+06 Oct 22:04:44 worker.py[line:281] INFO 
+
+06 Oct 22:04:44 worker.py[line:179] INFO worker_2 at global epiode #132 start:
+06 Oct 22:04:46 Experience.py[line:176] INFO current beta is: 0.433550147174
+06 Oct 22:04:46 worker.py[line:281] INFO 
+
+06 Oct 22:04:46 worker.py[line:179] INFO worker_2 at global epiode #133 start:
+06 Oct 22:04:48 Experience.py[line:176] INFO current beta is: 0.434316928266
+06 Oct 22:04:48 worker.py[line:281] INFO 
+
+06 Oct 22:04:48 worker.py[line:179] INFO worker_2 at global epiode #134 start:
+06 Oct 22:04:49 Experience.py[line:176] INFO current beta is: 0.435100148052
+06 Oct 22:04:50 worker.py[line:281] INFO 
+
+06 Oct 22:04:50 worker.py[line:179] INFO worker_2 at global epiode #135 start:
+06 Oct 22:04:51 Experience.py[line:176] INFO current beta is: 0.435900108928
+06 Oct 22:04:51 worker.py[line:281] INFO 
+
+06 Oct 22:04:51 worker.py[line:179] INFO worker_2 at global epiode #136 start:
+06 Oct 22:04:53 Experience.py[line:176] INFO current beta is: 0.436717116541
+06 Oct 22:04:53 worker.py[line:281] INFO 
+
+06 Oct 22:04:53 worker.py[line:179] INFO worker_2 at global epiode #137 start:
+06 Oct 22:04:54 Experience.py[line:176] INFO current beta is: 0.437551479718
+06 Oct 22:04:55 worker.py[line:281] INFO 
+
+06 Oct 22:04:55 worker.py[line:179] INFO worker_2 at global epiode #138 start:
+06 Oct 22:04:56 Experience.py[line:176] INFO current beta is: 0.438403510377
+06 Oct 22:04:56 worker.py[line:281] INFO 
+
+06 Oct 22:04:56 worker.py[line:179] INFO worker_2 at global epiode #139 start:
+06 Oct 22:04:58 Experience.py[line:176] INFO current beta is: 0.439273523433
+06 Oct 22:04:58 worker.py[line:281] INFO 
+
+06 Oct 22:04:58 worker.py[line:179] INFO worker_2 at global epiode #140 start:
+06 Oct 22:05:00 Experience.py[line:176] INFO current beta is: 0.440161836701
+06 Oct 22:05:00 worker.py[line:281] INFO 
+
+06 Oct 22:05:00 worker.py[line:179] INFO worker_2 at global epiode #141 start:
+06 Oct 22:05:01 Experience.py[line:176] INFO current beta is: 0.441068770787
+06 Oct 22:05:02 worker.py[line:281] INFO 
+
+06 Oct 22:05:02 worker.py[line:179] INFO worker_2 at global epiode #142 start:
+06 Oct 22:05:03 Experience.py[line:176] INFO current beta is: 0.44199464897
+06 Oct 22:05:03 worker.py[line:281] INFO 
+
+06 Oct 22:05:03 worker.py[line:179] INFO worker_2 at global epiode #143 start:
+06 Oct 22:05:05 Experience.py[line:176] INFO current beta is: 0.442939797082
+06 Oct 22:05:05 worker.py[line:281] INFO 
+
+06 Oct 22:05:05 worker.py[line:179] INFO worker_2 at global epiode #144 start:
+06 Oct 22:05:07 Experience.py[line:176] INFO current beta is: 0.443904543373
+06 Oct 22:05:07 worker.py[line:281] INFO 
+
+06 Oct 22:05:07 worker.py[line:179] INFO worker_2 at global epiode #145 start:
+06 Oct 22:05:08 Experience.py[line:176] INFO current beta is: 0.444889218369
+06 Oct 22:05:08 worker.py[line:281] INFO 
+
+06 Oct 22:05:08 worker.py[line:179] INFO worker_2 at global epiode #146 start:
+06 Oct 22:05:10 Experience.py[line:176] INFO current beta is: 0.445894154723
+06 Oct 22:05:10 worker.py[line:281] INFO 
+
+06 Oct 22:05:10 worker.py[line:179] INFO worker_2 at global epiode #147 start:
+06 Oct 22:05:12 Experience.py[line:176] INFO current beta is: 0.446919687058
+06 Oct 22:05:12 worker.py[line:281] INFO 
+
+06 Oct 22:05:12 worker.py[line:179] INFO worker_2 at global epiode #148 start:
+06 Oct 22:05:13 Experience.py[line:176] INFO current beta is: 0.447966151792
+06 Oct 22:05:14 worker.py[line:281] INFO 
+
+06 Oct 22:05:14 worker.py[line:179] INFO worker_2 at global epiode #149 start:
+06 Oct 22:05:15 Experience.py[line:176] INFO current beta is: 0.449033886964
+06 Oct 22:05:15 worker.py[line:281] INFO 
+
+06 Oct 22:05:15 worker.py[line:179] INFO worker_2 at global epiode #150 start:
+06 Oct 22:05:17 Experience.py[line:176] INFO current beta is: 0.450123232042
+06 Oct 22:05:17 worker.py[line:281] INFO 
+
+06 Oct 22:05:17 worker.py[line:179] INFO worker_2 at global epiode #151 start:
+06 Oct 22:05:19 Experience.py[line:176] INFO current beta is: 0.451234527728
+06 Oct 22:05:19 worker.py[line:281] INFO 
+
+06 Oct 22:05:19 worker.py[line:179] INFO worker_2 at global epiode #152 start:
+06 Oct 22:05:20 Experience.py[line:176] INFO current beta is: 0.452368115743
+06 Oct 22:05:20 worker.py[line:281] INFO 
+
+06 Oct 22:05:20 worker.py[line:179] INFO worker_2 at global epiode #153 start:
+06 Oct 22:05:22 Experience.py[line:176] INFO current beta is: 0.453524338612
+06 Oct 22:05:22 worker.py[line:281] INFO 
+
+06 Oct 22:05:22 worker.py[line:179] INFO worker_2 at global epiode #154 start:
+06 Oct 22:05:24 Experience.py[line:176] INFO current beta is: 0.454703539428
+06 Oct 22:05:24 worker.py[line:281] INFO 
+
+06 Oct 22:05:24 worker.py[line:179] INFO worker_2 at global epiode #155 start:
+06 Oct 22:05:25 Experience.py[line:176] INFO current beta is: 0.455906061613
+06 Oct 22:05:26 worker.py[line:281] INFO 
+
+06 Oct 22:05:26 worker.py[line:179] INFO worker_2 at global epiode #156 start:
+06 Oct 22:05:27 Experience.py[line:176] INFO current beta is: 0.457132248663
+06 Oct 22:05:27 worker.py[line:281] INFO 
+
+06 Oct 22:05:27 worker.py[line:179] INFO worker_2 at global epiode #157 start:
+06 Oct 22:05:29 Experience.py[line:176] INFO current beta is: 0.458382443882
+06 Oct 22:05:29 worker.py[line:281] INFO 
+
+06 Oct 22:05:29 worker.py[line:179] INFO worker_2 at global epiode #158 start:
+06 Oct 22:05:31 Experience.py[line:176] INFO current beta is: 0.459656990107
+06 Oct 22:05:31 worker.py[line:281] INFO 
+
+06 Oct 22:05:31 worker.py[line:179] INFO worker_2 at global epiode #159 start:
+06 Oct 22:05:32 Experience.py[line:176] INFO current beta is: 0.460956229417
+06 Oct 22:05:33 worker.py[line:281] INFO 
+
+06 Oct 22:05:33 worker.py[line:179] INFO worker_2 at global epiode #160 start:
+06 Oct 22:05:34 Experience.py[line:176] INFO current beta is: 0.462280502835
+06 Oct 22:05:34 worker.py[line:281] INFO 
+
+06 Oct 22:05:34 worker.py[line:179] INFO worker_2 at global epiode #161 start:
+06 Oct 22:05:36 Experience.py[line:176] INFO current beta is: 0.463630150012
+06 Oct 22:05:36 worker.py[line:281] INFO 
+
+06 Oct 22:05:36 worker.py[line:179] INFO worker_2 at global epiode #162 start:
+06 Oct 22:05:37 Experience.py[line:176] INFO current beta is: 0.465005508905
+06 Oct 22:05:38 worker.py[line:281] INFO 
+
+06 Oct 22:05:38 worker.py[line:179] INFO worker_2 at global epiode #163 start:
+06 Oct 22:05:39 Experience.py[line:176] INFO current beta is: 0.466406915438
+06 Oct 22:05:39 worker.py[line:281] INFO 
+
+06 Oct 22:05:39 worker.py[line:179] INFO worker_2 at global epiode #164 start:
+06 Oct 22:05:41 Experience.py[line:176] INFO current beta is: 0.467834703153
+06 Oct 22:05:41 worker.py[line:281] INFO 
+
+06 Oct 22:05:41 worker.py[line:179] INFO worker_2 at global epiode #165 start:
+06 Oct 22:05:43 Experience.py[line:176] INFO current beta is: 0.46928920285
+06 Oct 22:05:43 worker.py[line:281] INFO 
+
+06 Oct 22:05:43 worker.py[line:179] INFO worker_2 at global epiode #166 start:
+06 Oct 22:05:44 Experience.py[line:176] INFO current beta is: 0.470770742208
+06 Oct 22:05:45 worker.py[line:281] INFO 
+
+06 Oct 22:05:45 worker.py[line:179] INFO worker_2 at global epiode #167 start:
+06 Oct 22:05:46 Experience.py[line:176] INFO current beta is: 0.472279645405
+06 Oct 22:05:46 worker.py[line:281] INFO 
+
+06 Oct 22:05:46 worker.py[line:179] INFO worker_2 at global epiode #168 start:
+06 Oct 22:05:48 Experience.py[line:176] INFO current beta is: 0.473816232714
+06 Oct 22:05:48 worker.py[line:281] INFO 
+
+06 Oct 22:05:48 worker.py[line:179] INFO worker_2 at global epiode #169 start:
+06 Oct 22:05:49 Experience.py[line:176] INFO current beta is: 0.475380820097
+06 Oct 22:05:50 worker.py[line:281] INFO 
+
+06 Oct 22:05:50 worker.py[line:179] INFO worker_2 at global epiode #170 start:
+06 Oct 22:05:51 Experience.py[line:176] INFO current beta is: 0.476973718779
+06 Oct 22:05:51 worker.py[line:281] INFO 
+
+06 Oct 22:05:51 worker.py[line:179] INFO worker_2 at global epiode #171 start:
+06 Oct 22:05:53 Experience.py[line:176] INFO current beta is: 0.478595234813
+06 Oct 22:05:53 worker.py[line:281] INFO 
+
+06 Oct 22:05:53 worker.py[line:179] INFO worker_2 at global epiode #172 start:
+06 Oct 22:05:55 Experience.py[line:176] INFO current beta is: 0.480245668638
+06 Oct 22:05:55 worker.py[line:281] INFO 
+
+06 Oct 22:05:55 worker.py[line:179] INFO worker_2 at global epiode #173 start:
+06 Oct 22:05:56 Experience.py[line:176] INFO current beta is: 0.481925314618
+06 Oct 22:05:56 worker.py[line:281] INFO 
+
+06 Oct 22:05:56 worker.py[line:179] INFO worker_2 at global epiode #174 start:
+06 Oct 22:05:58 Experience.py[line:176] INFO current beta is: 0.483634460574
+06 Oct 22:05:58 worker.py[line:281] INFO 
+
+06 Oct 22:05:58 worker.py[line:179] INFO worker_2 at global epiode #175 start:
+06 Oct 22:06:00 Experience.py[line:176] INFO current beta is: 0.485373387306
+06 Oct 22:06:00 worker.py[line:281] INFO 
+
+06 Oct 22:06:00 worker.py[line:179] INFO worker_2 at global epiode #176 start:
+06 Oct 22:06:01 Experience.py[line:176] INFO current beta is: 0.487142368103
+06 Oct 22:06:02 worker.py[line:281] INFO 
+
+06 Oct 22:06:02 worker.py[line:179] INFO worker_2 at global epiode #177 start:
+06 Oct 22:06:03 Experience.py[line:176] INFO current beta is: 0.488941668242
+06 Oct 22:06:03 worker.py[line:281] INFO 
+
+06 Oct 22:06:03 worker.py[line:179] INFO worker_2 at global epiode #178 start:
+06 Oct 22:06:05 Experience.py[line:176] INFO current beta is: 0.490771544481
+06 Oct 22:06:05 worker.py[line:281] INFO 
+
+06 Oct 22:06:05 worker.py[line:179] INFO worker_2 at global epiode #179 start:
+06 Oct 22:06:07 Experience.py[line:176] INFO current beta is: 0.492632244538
+06 Oct 22:06:07 worker.py[line:281] INFO 
+
+06 Oct 22:06:07 worker.py[line:179] INFO worker_2 at global epiode #180 start:
+06 Oct 22:06:08 Experience.py[line:176] INFO current beta is: 0.494524006569
+06 Oct 22:06:08 worker.py[line:281] INFO 
+
+06 Oct 22:06:08 worker.py[line:179] INFO worker_2 at global epiode #181 start:
+06 Oct 22:06:10 Experience.py[line:176] INFO current beta is: 0.49644705863
+06 Oct 22:06:10 worker.py[line:281] INFO 
+
+06 Oct 22:06:10 worker.py[line:179] INFO worker_2 at global epiode #182 start:
+06 Oct 22:06:12 Experience.py[line:176] INFO current beta is: 0.498401618136
+06 Oct 22:06:12 worker.py[line:281] INFO 
+
+06 Oct 22:06:12 worker.py[line:179] INFO worker_2 at global epiode #183 start:
+06 Oct 22:06:13 Experience.py[line:176] INFO current beta is: 0.500387891315
+06 Oct 22:06:14 worker.py[line:281] INFO 
+
+06 Oct 22:06:14 worker.py[line:179] INFO worker_2 at global epiode #184 start:
+06 Oct 22:06:15 Experience.py[line:176] INFO current beta is: 0.502406072654
+06 Oct 22:06:15 worker.py[line:281] INFO 
+
+06 Oct 22:06:15 worker.py[line:179] INFO worker_2 at global epiode #185 start:
+06 Oct 22:06:17 Experience.py[line:176] INFO current beta is: 0.50445634434
+06 Oct 22:06:17 worker.py[line:281] INFO 
+
+06 Oct 22:06:17 worker.py[line:179] INFO worker_2 at global epiode #186 start:
+06 Oct 22:06:19 Experience.py[line:176] INFO current beta is: 0.506538875697
+06 Oct 22:06:19 worker.py[line:281] INFO 
+
+06 Oct 22:06:19 worker.py[line:179] INFO worker_2 at global epiode #187 start:
+06 Oct 22:06:20 Experience.py[line:176] INFO current beta is: 0.508653822625
+06 Oct 22:06:20 worker.py[line:281] INFO 
+
+06 Oct 22:06:20 worker.py[line:179] INFO worker_2 at global epiode #188 start:
+06 Oct 22:06:22 Experience.py[line:176] INFO current beta is: 0.510801327029
+06 Oct 22:06:22 worker.py[line:281] INFO 
+
+06 Oct 22:06:22 worker.py[line:179] INFO worker_2 at global epiode #189 start:
+06 Oct 22:06:24 Experience.py[line:176] INFO current beta is: 0.512981516254
+06 Oct 22:06:24 worker.py[line:281] INFO 
+
+06 Oct 22:06:24 worker.py[line:179] INFO worker_2 at global epiode #190 start:
+06 Oct 22:06:25 Experience.py[line:176] INFO current beta is: 0.515194502514
+06 Oct 22:06:26 worker.py[line:281] INFO 
+
+06 Oct 22:06:26 worker.py[line:179] INFO worker_2 at global epiode #191 start:
+06 Oct 22:06:27 Experience.py[line:176] INFO current beta is: 0.517440382329
+06 Oct 22:06:27 worker.py[line:281] INFO 
+
+06 Oct 22:06:27 worker.py[line:179] INFO worker_2 at global epiode #192 start:
+06 Oct 22:06:29 Experience.py[line:176] INFO current beta is: 0.519719235962
+06 Oct 22:06:29 worker.py[line:281] INFO 
+
+06 Oct 22:06:29 worker.py[line:179] INFO worker_2 at global epiode #193 start:
+06 Oct 22:06:31 Experience.py[line:176] INFO current beta is: 0.522031126855
+06 Oct 22:06:31 worker.py[line:281] INFO 
+
+06 Oct 22:06:34 worker.py[line:173] INFO Starting worker 3
+06 Oct 22:06:34 worker.py[line:179] INFO worker_3 at global epiode #0 start:
+06 Oct 22:06:36 Experience.py[line:176] INFO current beta is: 0.401501403336
+06 Oct 22:06:36 worker.py[line:281] INFO 
+
+06 Oct 22:06:36 worker.py[line:179] INFO worker_3 at global epiode #1 start:
+06 Oct 22:06:38 Experience.py[line:176] INFO current beta is: 0.401537705955
+06 Oct 22:06:38 worker.py[line:281] INFO 
+
+06 Oct 22:06:38 worker.py[line:179] INFO worker_3 at global epiode #2 start:
+06 Oct 22:06:39 Experience.py[line:176] INFO current beta is: 0.401574884029
+06 Oct 22:06:40 worker.py[line:281] INFO 
+
+06 Oct 22:06:40 worker.py[line:179] INFO worker_3 at global epiode #3 start:
+06 Oct 22:06:41 Experience.py[line:176] INFO current beta is: 0.401612958558
+06 Oct 22:06:41 worker.py[line:281] INFO 
+
+06 Oct 22:06:41 worker.py[line:179] INFO worker_3 at global epiode #4 start:
+06 Oct 22:06:43 Experience.py[line:176] INFO current beta is: 0.401651951039
+06 Oct 22:06:43 worker.py[line:281] INFO 
+
+06 Oct 22:06:43 worker.py[line:179] INFO worker_3 at global epiode #5 start:
+06 Oct 22:06:45 Experience.py[line:176] INFO current beta is: 0.401691883479
+06 Oct 22:06:45 worker.py[line:281] INFO 
+
+06 Oct 22:06:45 worker.py[line:179] INFO worker_3 at global epiode #6 start:
+06 Oct 22:06:47 Experience.py[line:176] INFO current beta is: 0.401732778407
+06 Oct 22:06:47 worker.py[line:281] INFO 
+
+06 Oct 22:06:47 worker.py[line:179] INFO worker_3 at global epiode #7 start:
+06 Oct 22:06:48 Experience.py[line:176] INFO current beta is: 0.401774658883
+06 Oct 22:06:49 worker.py[line:281] INFO 
+
+06 Oct 22:06:49 worker.py[line:179] INFO worker_3 at global epiode #8 start:
+06 Oct 22:06:50 Experience.py[line:176] INFO current beta is: 0.401817548517
+06 Oct 22:06:50 worker.py[line:281] INFO 
+
+06 Oct 22:06:50 worker.py[line:179] INFO worker_3 at global epiode #9 start:
+06 Oct 22:06:52 Experience.py[line:176] INFO current beta is: 0.401861471475
+06 Oct 22:06:52 worker.py[line:281] INFO 
+
+06 Oct 22:06:52 worker.py[line:179] INFO worker_3 at global epiode #10 start:
+06 Oct 22:06:54 Experience.py[line:176] INFO current beta is: 0.401906452493
+06 Oct 22:06:54 worker.py[line:281] INFO 
+
+06 Oct 22:06:54 worker.py[line:179] INFO worker_3 at global epiode #11 start:
+06 Oct 22:06:55 Experience.py[line:176] INFO current beta is: 0.401952516895
+06 Oct 22:06:56 worker.py[line:281] INFO 
+
+06 Oct 22:06:56 worker.py[line:179] INFO worker_3 at global epiode #12 start:
+06 Oct 22:06:57 Experience.py[line:176] INFO current beta is: 0.401999690601
+06 Oct 22:06:57 worker.py[line:281] INFO 
+
+06 Oct 22:06:57 worker.py[line:179] INFO worker_3 at global epiode #13 start:
+06 Oct 22:06:59 Experience.py[line:176] INFO current beta is: 0.402048000142
+06 Oct 22:06:59 worker.py[line:281] INFO 
+
+06 Oct 22:06:59 worker.py[line:179] INFO worker_3 at global epiode #14 start:
+06 Oct 22:07:01 Experience.py[line:176] INFO current beta is: 0.402097472676
+06 Oct 22:07:01 worker.py[line:281] INFO 
+
+06 Oct 22:07:01 worker.py[line:179] INFO worker_3 at global epiode #15 start:
+06 Oct 22:07:03 Experience.py[line:176] INFO current beta is: 0.402148136
+06 Oct 22:07:03 worker.py[line:281] INFO 
+
+06 Oct 22:07:03 worker.py[line:179] INFO worker_3 at global epiode #16 start:
+06 Oct 22:07:04 Experience.py[line:176] INFO current beta is: 0.402200018566
+06 Oct 22:07:05 worker.py[line:281] INFO 
+
+06 Oct 22:07:05 worker.py[line:179] INFO worker_3 at global epiode #17 start:
+06 Oct 22:07:06 Experience.py[line:176] INFO current beta is: 0.402253149497
+06 Oct 22:07:06 worker.py[line:281] INFO 
+
+06 Oct 22:07:06 worker.py[line:179] INFO worker_3 at global epiode #18 start:
+06 Oct 22:07:08 Experience.py[line:176] INFO current beta is: 0.402307558599
+06 Oct 22:07:08 worker.py[line:281] INFO 
+
+06 Oct 22:07:08 worker.py[line:179] INFO worker_3 at global epiode #19 start:
+06 Oct 22:07:10 Experience.py[line:176] INFO current beta is: 0.402363276378
+06 Oct 22:07:10 worker.py[line:281] INFO 
+
+06 Oct 22:07:10 worker.py[line:179] INFO worker_3 at global epiode #20 start:
+06 Oct 22:07:12 Experience.py[line:176] INFO current beta is: 0.402420334058
+06 Oct 22:07:12 worker.py[line:281] INFO 
+
+06 Oct 22:07:12 worker.py[line:179] INFO worker_3 at global epiode #21 start:
+06 Oct 22:07:14 Experience.py[line:176] INFO current beta is: 0.402478763594
+06 Oct 22:07:14 worker.py[line:281] INFO 
+
+06 Oct 22:07:14 worker.py[line:179] INFO worker_3 at global epiode #22 start:
+06 Oct 22:07:16 Experience.py[line:176] INFO current beta is: 0.402538597692
+06 Oct 22:07:16 worker.py[line:281] INFO 
+
+06 Oct 22:07:16 worker.py[line:179] INFO worker_3 at global epiode #23 start:
+06 Oct 22:07:17 Experience.py[line:176] INFO current beta is: 0.402599869822
+06 Oct 22:07:17 worker.py[line:281] INFO 
+
+06 Oct 22:07:17 worker.py[line:179] INFO worker_3 at global epiode #24 start:
+06 Oct 22:07:19 Experience.py[line:176] INFO current beta is: 0.402662614238
+06 Oct 22:07:19 worker.py[line:281] INFO 
+
+06 Oct 22:07:19 worker.py[line:179] INFO worker_3 at global epiode #25 start:
+06 Oct 22:07:21 Experience.py[line:176] INFO current beta is: 0.402726865996
+06 Oct 22:07:21 worker.py[line:281] INFO 
+
+06 Oct 22:07:21 worker.py[line:179] INFO worker_3 at global epiode #26 start:
+06 Oct 22:07:22 Experience.py[line:176] INFO current beta is: 0.402792660969
+06 Oct 22:07:23 worker.py[line:281] INFO 
+
+06 Oct 22:07:23 worker.py[line:179] INFO worker_3 at global epiode #27 start:
+06 Oct 22:07:24 Experience.py[line:176] INFO current beta is: 0.402860035869
+06 Oct 22:07:24 worker.py[line:281] INFO 
+
+06 Oct 22:07:24 worker.py[line:179] INFO worker_3 at global epiode #28 start:
+06 Oct 22:07:26 Experience.py[line:176] INFO current beta is: 0.402929028264
+06 Oct 22:07:26 worker.py[line:281] INFO 
+
+06 Oct 22:07:26 worker.py[line:179] INFO worker_3 at global epiode #29 start:
+06 Oct 22:07:28 Experience.py[line:176] INFO current beta is: 0.402999676596
+06 Oct 22:07:28 worker.py[line:281] INFO 
+
+06 Oct 22:07:28 worker.py[line:179] INFO worker_3 at global epiode #30 start:
+06 Oct 22:07:29 Experience.py[line:176] INFO current beta is: 0.403072020202
+06 Oct 22:07:29 worker.py[line:281] INFO 
+
+06 Oct 22:07:29 worker.py[line:179] INFO worker_3 at global epiode #31 start:
+06 Oct 22:07:31 Experience.py[line:176] INFO current beta is: 0.403146099334
+06 Oct 22:07:31 worker.py[line:281] INFO 
+
+06 Oct 22:07:31 worker.py[line:179] INFO worker_3 at global epiode #32 start:
+06 Oct 22:07:33 Experience.py[line:176] INFO current beta is: 0.403221955179
+06 Oct 22:07:33 worker.py[line:281] INFO 
+
+06 Oct 22:07:33 worker.py[line:179] INFO worker_3 at global epiode #33 start:
+06 Oct 22:07:34 Experience.py[line:176] INFO current beta is: 0.403299629879
+06 Oct 22:07:35 worker.py[line:281] INFO 
+
+06 Oct 22:07:35 worker.py[line:179] INFO worker_3 at global epiode #34 start:
+06 Oct 22:07:36 Experience.py[line:176] INFO current beta is: 0.403379166553
+06 Oct 22:07:36 worker.py[line:281] INFO 
+
+06 Oct 22:07:36 worker.py[line:179] INFO worker_3 at global epiode #35 start:
+06 Oct 22:07:38 Experience.py[line:176] INFO current beta is: 0.403460609318
+06 Oct 22:07:38 worker.py[line:281] INFO 
+
+06 Oct 22:07:38 worker.py[line:179] INFO worker_3 at global epiode #36 start:
+06 Oct 22:07:40 Experience.py[line:176] INFO current beta is: 0.40354400331
+06 Oct 22:07:40 worker.py[line:281] INFO 
+
+06 Oct 22:07:40 worker.py[line:179] INFO worker_3 at global epiode #37 start:
+06 Oct 22:07:41 Experience.py[line:176] INFO current beta is: 0.403629394709
+06 Oct 22:07:41 worker.py[line:281] INFO 
+
+06 Oct 22:07:41 worker.py[line:179] INFO worker_3 at global epiode #38 start:
+06 Oct 22:07:43 Experience.py[line:176] INFO current beta is: 0.40371683076
+06 Oct 22:07:43 worker.py[line:281] INFO 
+
+06 Oct 22:07:43 worker.py[line:179] INFO worker_3 at global epiode #39 start:
+06 Oct 22:07:45 Experience.py[line:176] INFO current beta is: 0.403806359796
+06 Oct 22:07:45 worker.py[line:281] INFO 
+
+06 Oct 22:07:45 worker.py[line:179] INFO worker_3 at global epiode #40 start:
+06 Oct 22:07:46 Experience.py[line:176] INFO current beta is: 0.403898031262
+06 Oct 22:07:47 worker.py[line:281] INFO 
+
+06 Oct 22:07:47 worker.py[line:179] INFO worker_3 at global epiode #41 start:
+06 Oct 22:07:48 Experience.py[line:176] INFO current beta is: 0.40399189574
+06 Oct 22:07:48 worker.py[line:281] INFO 
+
+06 Oct 22:07:48 worker.py[line:179] INFO worker_3 at global epiode #42 start:
+06 Oct 22:07:50 Experience.py[line:176] INFO current beta is: 0.40408800497
+06 Oct 22:07:50 worker.py[line:281] INFO 
+
+06 Oct 22:07:50 worker.py[line:179] INFO worker_3 at global epiode #43 start:
+06 Oct 22:07:52 Experience.py[line:176] INFO current beta is: 0.404186411882
+06 Oct 22:07:52 worker.py[line:281] INFO 
+
+06 Oct 22:07:52 worker.py[line:179] INFO worker_3 at global epiode #44 start:
+06 Oct 22:07:53 Experience.py[line:176] INFO current beta is: 0.404287170613
+06 Oct 22:07:53 worker.py[line:281] INFO 
+
+06 Oct 22:07:53 worker.py[line:179] INFO worker_3 at global epiode #45 start:
+06 Oct 22:07:55 Experience.py[line:176] INFO current beta is: 0.40439033654
+06 Oct 22:07:55 worker.py[line:281] INFO 
+
+06 Oct 22:07:55 worker.py[line:179] INFO worker_3 at global epiode #46 start:
+06 Oct 22:07:57 Experience.py[line:176] INFO current beta is: 0.404495966302
+06 Oct 22:07:57 worker.py[line:281] INFO 
+
+06 Oct 22:07:57 worker.py[line:179] INFO worker_3 at global epiode #47 start:
+06 Oct 22:07:58 Experience.py[line:176] INFO current beta is: 0.404604117829
+06 Oct 22:07:59 worker.py[line:281] INFO 
+
+06 Oct 22:07:59 worker.py[line:179] INFO worker_3 at global epiode #48 start:
+06 Oct 22:08:00 Experience.py[line:176] INFO current beta is: 0.404714850369
+06 Oct 22:08:00 worker.py[line:281] INFO 
+
+06 Oct 22:08:00 worker.py[line:179] INFO worker_3 at global epiode #49 start:
+06 Oct 22:08:02 Experience.py[line:176] INFO current beta is: 0.404828224514
+06 Oct 22:08:02 worker.py[line:281] INFO 
+
+06 Oct 22:08:02 worker.py[line:179] INFO worker_3 at global epiode #50 start:
+06 Oct 22:08:03 Experience.py[line:176] INFO current beta is: 0.404944302231
+06 Oct 22:08:04 worker.py[line:281] INFO 
+
+06 Oct 22:08:04 worker.py[line:179] INFO worker_3 at global epiode #51 start:
+06 Oct 22:08:05 Experience.py[line:176] INFO current beta is: 0.405063146889
+06 Oct 22:08:05 worker.py[line:281] INFO 
+
+06 Oct 22:08:05 worker.py[line:179] INFO worker_3 at global epiode #52 start:
+06 Oct 22:08:07 Experience.py[line:176] INFO current beta is: 0.405184823289
+06 Oct 22:08:07 worker.py[line:281] INFO 
+
+06 Oct 22:08:07 worker.py[line:179] INFO worker_3 at global epiode #53 start:
+06 Oct 22:08:09 Experience.py[line:176] INFO current beta is: 0.405309397693
+06 Oct 22:08:09 worker.py[line:281] INFO 
+
+06 Oct 22:08:09 worker.py[line:179] INFO worker_3 at global epiode #54 start:
+06 Oct 22:08:10 Experience.py[line:176] INFO current beta is: 0.405436937855
+06 Oct 22:08:10 worker.py[line:281] INFO 
+
+06 Oct 22:08:10 worker.py[line:179] INFO worker_3 at global epiode #55 start:
+06 Oct 22:08:12 Experience.py[line:176] INFO current beta is: 0.405567513051
+06 Oct 22:08:12 worker.py[line:281] INFO 
+
+06 Oct 22:08:12 worker.py[line:179] INFO worker_3 at global epiode #56 start:
+06 Oct 22:08:14 Experience.py[line:176] INFO current beta is: 0.405701194112
+06 Oct 22:08:14 worker.py[line:281] INFO 
+
+06 Oct 22:08:14 worker.py[line:179] INFO worker_3 at global epiode #57 start:
+06 Oct 22:08:15 Experience.py[line:176] INFO current beta is: 0.405838053453
+06 Oct 22:08:16 worker.py[line:281] INFO 
+
+06 Oct 22:08:16 worker.py[line:179] INFO worker_3 at global epiode #58 start:
+06 Oct 22:08:17 Experience.py[line:176] INFO current beta is: 0.405978165107
+06 Oct 22:08:17 worker.py[line:281] INFO 
+
+06 Oct 22:08:17 worker.py[line:179] INFO worker_3 at global epiode #59 start:
+06 Oct 22:08:19 Experience.py[line:176] INFO current beta is: 0.406121604756
+06 Oct 22:08:19 worker.py[line:281] INFO 
+
+06 Oct 22:08:19 worker.py[line:179] INFO worker_3 at global epiode #60 start:
+06 Oct 22:08:20 Experience.py[line:176] INFO current beta is: 0.406268449767
+06 Oct 22:08:21 worker.py[line:281] INFO 
+
+06 Oct 22:08:21 worker.py[line:179] INFO worker_3 at global epiode #61 start:
+06 Oct 22:08:22 Experience.py[line:176] INFO current beta is: 0.406418779223
+06 Oct 22:08:22 worker.py[line:281] INFO 
+
+06 Oct 22:08:22 worker.py[line:179] INFO worker_3 at global epiode #62 start:
+06 Oct 22:08:24 Experience.py[line:176] INFO current beta is: 0.406572673958
+06 Oct 22:08:24 worker.py[line:281] INFO 
+
+06 Oct 22:08:24 worker.py[line:179] INFO worker_3 at global epiode #63 start:
+06 Oct 22:08:25 Experience.py[line:176] INFO current beta is: 0.406730216591
+06 Oct 22:08:26 worker.py[line:281] INFO 
+
+06 Oct 22:08:26 worker.py[line:179] INFO worker_3 at global epiode #64 start:
+06 Oct 22:08:27 Experience.py[line:176] INFO current beta is: 0.406891491564
+06 Oct 22:08:27 worker.py[line:281] INFO 
+
+06 Oct 22:08:27 worker.py[line:179] INFO worker_3 at global epiode #65 start:
+06 Oct 22:08:29 Experience.py[line:176] INFO current beta is: 0.407056585173
+06 Oct 22:08:29 worker.py[line:281] INFO 
+
+06 Oct 22:08:29 worker.py[line:179] INFO worker_3 at global epiode #66 start:
+06 Oct 22:08:31 Experience.py[line:176] INFO current beta is: 0.407225585608
+06 Oct 22:08:31 worker.py[line:281] INFO 
+
+06 Oct 22:08:31 worker.py[line:179] INFO worker_3 at global epiode #67 start:
+06 Oct 22:08:32 Experience.py[line:176] INFO current beta is: 0.407398582985
+06 Oct 22:08:32 worker.py[line:281] INFO 
+
+06 Oct 22:08:32 worker.py[line:179] INFO worker_3 at global epiode #68 start:
+06 Oct 22:08:34 Experience.py[line:176] INFO current beta is: 0.407575669389
+06 Oct 22:08:34 worker.py[line:281] INFO 
+
+06 Oct 22:08:34 worker.py[line:179] INFO worker_3 at global epiode #69 start:
+06 Oct 22:08:36 Experience.py[line:176] INFO current beta is: 0.407756938906
+06 Oct 22:08:36 worker.py[line:281] INFO 
+
+06 Oct 22:08:36 worker.py[line:179] INFO worker_3 at global epiode #70 start:
+06 Oct 22:08:37 Experience.py[line:176] INFO current beta is: 0.407942487663
+06 Oct 22:08:38 worker.py[line:281] INFO 
+
+06 Oct 22:08:38 worker.py[line:179] INFO worker_3 at global epiode #71 start:
+06 Oct 22:08:39 Experience.py[line:176] INFO current beta is: 0.408132413867
+06 Oct 22:08:39 worker.py[line:281] INFO 
+
+06 Oct 22:08:39 worker.py[line:179] INFO worker_3 at global epiode #72 start:
+06 Oct 22:08:41 Experience.py[line:176] INFO current beta is: 0.408326817842
+06 Oct 22:08:41 worker.py[line:281] INFO 
+
+06 Oct 22:08:41 worker.py[line:179] INFO worker_3 at global epiode #73 start:
+06 Oct 22:08:42 Experience.py[line:176] INFO current beta is: 0.408525802068
+06 Oct 22:08:43 worker.py[line:281] INFO 
+
+06 Oct 22:08:43 worker.py[line:179] INFO worker_3 at global epiode #74 start:
+06 Oct 22:08:44 Experience.py[line:176] INFO current beta is: 0.408729471223
+06 Oct 22:08:44 worker.py[line:281] INFO 
+
+06 Oct 22:08:44 worker.py[line:179] INFO worker_3 at global epiode #75 start:
+06 Oct 22:08:46 Experience.py[line:176] INFO current beta is: 0.408937932219
+06 Oct 22:08:46 worker.py[line:281] INFO 
+
+06 Oct 22:08:46 worker.py[line:179] INFO worker_3 at global epiode #76 start:
+06 Oct 22:08:48 Experience.py[line:176] INFO current beta is: 0.409151294246
+06 Oct 22:08:48 worker.py[line:281] INFO 
+
+06 Oct 22:08:48 worker.py[line:179] INFO worker_3 at global epiode #77 start:
+06 Oct 22:08:49 Experience.py[line:176] INFO current beta is: 0.409369668809
+06 Oct 22:08:49 worker.py[line:281] INFO 
+
+06 Oct 22:08:49 worker.py[line:179] INFO worker_3 at global epiode #78 start:
+06 Oct 22:08:51 Experience.py[line:176] INFO current beta is: 0.40959316977
+06 Oct 22:08:51 worker.py[line:281] INFO 
+
+06 Oct 22:08:51 worker.py[line:179] INFO worker_3 at global epiode #79 start:
+06 Oct 22:08:53 Experience.py[line:176] INFO current beta is: 0.409821913392
+06 Oct 22:08:53 worker.py[line:281] INFO 
+
+06 Oct 22:08:53 worker.py[line:179] INFO worker_3 at global epiode #80 start:
+06 Oct 22:08:54 Experience.py[line:176] INFO current beta is: 0.410056018375
+06 Oct 22:08:54 worker.py[line:281] INFO 
+
+06 Oct 22:08:54 worker.py[line:179] INFO worker_3 at global epiode #81 start:
+06 Oct 22:08:56 Experience.py[line:176] INFO current beta is: 0.410295605902
+06 Oct 22:08:56 worker.py[line:281] INFO 
+
+06 Oct 22:08:56 worker.py[line:179] INFO worker_3 at global epiode #82 start:
+06 Oct 22:08:58 Experience.py[line:176] INFO current beta is: 0.410540799679
+06 Oct 22:08:58 worker.py[line:281] INFO 
+
+06 Oct 22:08:58 worker.py[line:179] INFO worker_3 at global epiode #83 start:
+06 Oct 22:08:59 Experience.py[line:176] INFO current beta is: 0.410791725977
+06 Oct 22:09:00 worker.py[line:281] INFO 
+
+06 Oct 22:09:00 worker.py[line:179] INFO worker_3 at global epiode #84 start:
+06 Oct 22:09:01 Experience.py[line:176] INFO current beta is: 0.411048513675
+06 Oct 22:09:01 worker.py[line:281] INFO 
+
+06 Oct 22:09:01 worker.py[line:179] INFO worker_3 at global epiode #85 start:
+06 Oct 22:09:03 Experience.py[line:176] INFO current beta is: 0.411311294302
+06 Oct 22:09:03 worker.py[line:281] INFO 
+
+06 Oct 22:09:03 worker.py[line:179] INFO worker_3 at global epiode #86 start:
+06 Oct 22:09:04 Experience.py[line:176] INFO current beta is: 0.411580202078
+06 Oct 22:09:05 worker.py[line:281] INFO 
+
+06 Oct 22:09:05 worker.py[line:179] INFO worker_3 at global epiode #87 start:
+06 Oct 22:09:06 Experience.py[line:176] INFO current beta is: 0.41185537396
+06 Oct 22:09:06 worker.py[line:281] INFO 
+
+06 Oct 22:09:06 worker.py[line:179] INFO worker_3 at global epiode #88 start:
+06 Oct 22:09:08 Experience.py[line:176] INFO current beta is: 0.412136949681
+06 Oct 22:09:08 worker.py[line:281] INFO 
+
+06 Oct 22:09:08 worker.py[line:179] INFO worker_3 at global epiode #89 start:
+06 Oct 22:09:09 Experience.py[line:176] INFO current beta is: 0.412425071793
+06 Oct 22:09:10 worker.py[line:281] INFO 
+
+06 Oct 22:09:10 worker.py[line:179] INFO worker_3 at global epiode #90 start:
+06 Oct 22:09:11 Experience.py[line:176] INFO current beta is: 0.412719885713
+06 Oct 22:09:11 worker.py[line:281] INFO 
+
+06 Oct 22:09:11 worker.py[line:179] INFO worker_3 at global epiode #91 start:
+06 Oct 22:09:13 Experience.py[line:176] INFO current beta is: 0.413021539761
+06 Oct 22:09:13 worker.py[line:281] INFO 
+
+06 Oct 22:09:13 worker.py[line:179] INFO worker_3 at global epiode #92 start:
+06 Oct 22:09:14 Experience.py[line:176] INFO current beta is: 0.413330185203
+06 Oct 22:09:15 worker.py[line:281] INFO 
+
+06 Oct 22:09:15 worker.py[line:179] INFO worker_3 at global epiode #93 start:
+06 Oct 22:09:16 Experience.py[line:176] INFO current beta is: 0.413645976295
+06 Oct 22:09:16 worker.py[line:281] INFO 
+
+06 Oct 22:09:16 worker.py[line:179] INFO worker_3 at global epiode #94 start:
+06 Oct 22:09:18 Experience.py[line:176] INFO current beta is: 0.413969070325
+06 Oct 22:09:18 worker.py[line:281] INFO 
+
+06 Oct 22:09:18 worker.py[line:179] INFO worker_3 at global epiode #95 start:
+06 Oct 22:09:19 Experience.py[line:176] INFO current beta is: 0.414299627651
+06 Oct 22:09:20 worker.py[line:281] INFO 
+
+06 Oct 22:09:20 worker.py[line:179] INFO worker_3 at global epiode #96 start:
+06 Oct 22:09:21 Experience.py[line:176] INFO current beta is: 0.414637811745
+06 Oct 22:09:21 worker.py[line:281] INFO 
+
+06 Oct 22:09:21 worker.py[line:179] INFO worker_3 at global epiode #97 start:
+06 Oct 22:09:23 Experience.py[line:176] INFO current beta is: 0.414983789233
+06 Oct 22:09:23 worker.py[line:281] INFO 
+
+06 Oct 22:09:23 worker.py[line:179] INFO worker_3 at global epiode #98 start:
+06 Oct 22:09:25 Experience.py[line:176] INFO current beta is: 0.415337729934
+06 Oct 22:09:25 worker.py[line:281] INFO 
+
+06 Oct 22:09:25 worker.py[line:179] INFO worker_3 at global epiode #99 start:
+06 Oct 22:09:26 Experience.py[line:176] INFO current beta is: 0.415699806901
+06 Oct 22:09:26 worker.py[line:281] INFO 
+
+06 Oct 22:09:27 worker.py[line:186] INFO worker_3 Saved Model
+06 Oct 22:09:27 worker.py[line:179] INFO worker_3 at global epiode #100 start:
+06 Oct 22:09:28 Experience.py[line:176] INFO current beta is: 0.41607019646
+06 Oct 22:09:28 worker.py[line:281] INFO 
+
+06 Oct 22:09:28 worker.py[line:179] INFO worker_3 at global epiode #101 start:
+06 Oct 22:09:30 Experience.py[line:176] INFO current beta is: 0.416449078246
+06 Oct 22:09:30 worker.py[line:281] INFO 
+
+06 Oct 22:09:30 worker.py[line:179] INFO worker_3 at global epiode #102 start:
+06 Oct 22:09:31 Experience.py[line:176] INFO current beta is: 0.416836635243
+06 Oct 22:09:32 worker.py[line:281] INFO 
+
+06 Oct 22:09:32 worker.py[line:179] INFO worker_3 at global epiode #103 start:
+06 Oct 22:09:33 Experience.py[line:176] INFO current beta is: 0.417233053819
+06 Oct 22:09:33 worker.py[line:281] INFO 
+
+06 Oct 22:09:33 worker.py[line:179] INFO worker_3 at global epiode #104 start:
+06 Oct 22:09:35 Experience.py[line:176] INFO current beta is: 0.417638523762
+06 Oct 22:09:35 worker.py[line:281] INFO 
+
+06 Oct 22:09:35 worker.py[line:179] INFO worker_3 at global epiode #105 start:
+06 Oct 22:09:36 Experience.py[line:176] INFO current beta is: 0.418053238312
+06 Oct 22:09:37 worker.py[line:281] INFO 
+
+06 Oct 22:09:37 worker.py[line:179] INFO worker_3 at global epiode #106 start:
+06 Oct 22:09:38 Experience.py[line:176] INFO current beta is: 0.4184773942
+06 Oct 22:09:38 worker.py[line:281] INFO 
+
+06 Oct 22:09:38 worker.py[line:179] INFO worker_3 at global epiode #107 start:
+06 Oct 22:09:40 Experience.py[line:176] INFO current beta is: 0.418911191673
+06 Oct 22:09:40 worker.py[line:281] INFO 
+
+06 Oct 22:09:41 main.py[line:199] INFO The global minimum is:
+06 Oct 22:09:41 main.py[line:200] INFO [1.92469053 1.71979174]
